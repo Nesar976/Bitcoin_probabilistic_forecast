@@ -1,0 +1,5042 @@
+[
+    {
+        "timestamp": "2026-04-01 22:00:00",
+        "actual_price": 68122.99,
+        "lower_bound": 67737.59763556463,
+        "upper_bound": 69000.43214934284,
+        "volatility": 0.0032681708474340864
+    },
+    {
+        "timestamp": "2026-04-01 23:00:00",
+        "actual_price": 68113.92,
+        "lower_bound": 67501.4701340202,
+        "upper_bound": 68760.91118729797,
+        "volatility": 0.0032750871016261566
+    },
+    {
+        "timestamp": "2026-04-02 00:00:00",
+        "actual_price": 68600.29,
+        "lower_bound": 67300.71286500193,
+        "upper_bound": 68908.47469789861,
+        "volatility": 0.0027951169795142816
+    },
+    {
+        "timestamp": "2026-04-02 01:00:00",
+        "actual_price": 67359.27,
+        "lower_bound": 67965.93017226493,
+        "upper_bound": 69230.89541682773,
+        "volatility": 0.0032954257598512716
+    },
+    {
+        "timestamp": "2026-04-02 02:00:00",
+        "actual_price": 66852.99,
+        "lower_bound": 66736.47360849059,
+        "upper_bound": 67998.20297755892,
+        "volatility": 0.003291970381354612
+    },
+    {
+        "timestamp": "2026-04-02 03:00:00",
+        "actual_price": 66576.25,
+        "lower_bound": 66039.85506059078,
+        "upper_bound": 67672.19098453289,
+        "volatility": 0.0028333878236875137
+    },
+    {
+        "timestamp": "2026-04-02 04:00:00",
+        "actual_price": 66330.27,
+        "lower_bound": 65752.28551513846,
+        "upper_bound": 67384.04650002292,
+        "volatility": 0.0028444709753370594
+    },
+    {
+        "timestamp": "2026-04-02 05:00:00",
+        "actual_price": 66591.54,
+        "lower_bound": 65565.34917963845,
+        "upper_bound": 67117.6648596345,
+        "volatility": 0.0028553305614021536
+    },
+    {
+        "timestamp": "2026-04-02 06:00:00",
+        "actual_price": 66681.49,
+        "lower_bound": 65963.47475506057,
+        "upper_bound": 67236.20745413353,
+        "volatility": 0.0033185631908210327
+    },
+    {
+        "timestamp": "2026-04-02 07:00:00",
+        "actual_price": 66930.79,
+        "lower_bound": 65843.91351456511,
+        "upper_bound": 67496.11821171483,
+        "volatility": 0.0028520602903116064
+    },
+    {
+        "timestamp": "2026-04-02 08:00:00",
+        "actual_price": 66439.12,
+        "lower_bound": 66153.98462814522,
+        "upper_bound": 67721.1538367624,
+        "volatility": 0.002860087723635972
+    },
+    {
+        "timestamp": "2026-04-02 09:00:00",
+        "actual_price": 66469.6,
+        "lower_bound": 65682.08762998441,
+        "upper_bound": 67248.48585540816,
+        "volatility": 0.0028618195795764192
+    },
+    {
+        "timestamp": "2026-04-02 10:00:00",
+        "actual_price": 66457.28,
+        "lower_bound": 65869.70203598526,
+        "upper_bound": 67109.45424060467,
+        "volatility": 0.0033161220072382485
+    },
+    {
+        "timestamp": "2026-04-02 11:00:00",
+        "actual_price": 66220.28,
+        "lower_bound": 65678.51252555792,
+        "upper_bound": 67235.72808035633,
+        "volatility": 0.002829720161780061
+    },
+    {
+        "timestamp": "2026-04-02 12:00:00",
+        "actual_price": 66052.71,
+        "lower_bound": 65378.80755608821,
+        "upper_bound": 66974.43083383034,
+        "volatility": 0.0028398108524929164
+    },
+    {
+        "timestamp": "2026-04-02 13:00:00",
+        "actual_price": 66270.87,
+        "lower_bound": 65259.013300406645,
+        "upper_bound": 66862.27209098745,
+        "volatility": 0.002840663808981324
+    },
+    {
+        "timestamp": "2026-04-02 14:00:00",
+        "actual_price": 66868.18,
+        "lower_bound": 65637.56266616115,
+        "upper_bound": 66891.66766222693,
+        "volatility": 0.0032989242567555595
+    },
+    {
+        "timestamp": "2026-04-02 15:00:00",
+        "actual_price": 66852.91,
+        "lower_bound": 66045.10426188385,
+        "upper_bound": 67698.07295109701,
+        "volatility": 0.002832453010036219
+    },
+    {
+        "timestamp": "2026-04-02 16:00:00",
+        "actual_price": 67095.85,
+        "lower_bound": 66221.05719650938,
+        "upper_bound": 67500.9590730744,
+        "volatility": 0.0032830348743980798
+    },
+    {
+        "timestamp": "2026-04-02 17:00:00",
+        "actual_price": 66679.16,
+        "lower_bound": 66469.78017491358,
+        "upper_bound": 67745.72242164047,
+        "volatility": 0.003294428896683804
+    },
+    {
+        "timestamp": "2026-04-02 18:00:00",
+        "actual_price": 66981.99,
+        "lower_bound": 65874.21790507859,
+        "upper_bound": 67439.24510075194,
+        "volatility": 0.002841529623615617
+    },
+    {
+        "timestamp": "2026-04-02 19:00:00",
+        "actual_price": 66975.99,
+        "lower_bound": 66221.73214522203,
+        "upper_bound": 67782.48200360725,
+        "volatility": 0.0028400631910326024
+    },
+    {
+        "timestamp": "2026-04-02 20:00:00",
+        "actual_price": 66939.25,
+        "lower_bound": 66343.32524923296,
+        "upper_bound": 67589.18237387568,
+        "volatility": 0.003298997893481343
+    },
+    {
+        "timestamp": "2026-04-02 21:00:00",
+        "actual_price": 66935.93,
+        "lower_bound": 66128.32464888527,
+        "upper_bound": 67753.14206644398,
+        "volatility": 0.002817478708788702
+    },
+    {
+        "timestamp": "2026-04-02 22:00:00",
+        "actual_price": 66982.48,
+        "lower_bound": 66152.4600622185,
+        "upper_bound": 67763.36783796179,
+        "volatility": 0.002800264279233064
+    },
+    {
+        "timestamp": "2026-04-02 23:00:00",
+        "actual_price": 66901.99,
+        "lower_bound": 66366.0645370429,
+        "upper_bound": 67593.70618059732,
+        "volatility": 0.003249951684084469
+    },
+    {
+        "timestamp": "2026-04-03 00:00:00",
+        "actual_price": 66785.86,
+        "lower_bound": 66279.5421411085,
+        "upper_bound": 67526.29425214414,
+        "volatility": 0.003252203516491429
+    },
+    {
+        "timestamp": "2026-04-03 01:00:00",
+        "actual_price": 66630.0,
+        "lower_bound": 66028.9424898171,
+        "upper_bound": 67591.77760769016,
+        "volatility": 0.0027951376761962392
+    },
+    {
+        "timestamp": "2026-04-03 02:00:00",
+        "actual_price": 66533.81,
+        "lower_bound": 66017.44418083258,
+        "upper_bound": 67259.21799803327,
+        "volatility": 0.0032469772767051985
+    },
+    {
+        "timestamp": "2026-04-03 03:00:00",
+        "actual_price": 66579.97,
+        "lower_bound": 65905.48902874347,
+        "upper_bound": 67158.97112726602,
+        "volatility": 0.003233996115260973
+    },
+    {
+        "timestamp": "2026-04-03 04:00:00",
+        "actual_price": 66602.66,
+        "lower_bound": 65938.35107014209,
+        "upper_bound": 67195.83961241774,
+        "volatility": 0.0032233877463669963
+    },
+    {
+        "timestamp": "2026-04-03 05:00:00",
+        "actual_price": 66600.35,
+        "lower_bound": 65845.15104372913,
+        "upper_bound": 67384.28444669727,
+        "volatility": 0.00277503078764056
+    },
+    {
+        "timestamp": "2026-04-03 06:00:00",
+        "actual_price": 66796.79,
+        "lower_bound": 65995.28468639145,
+        "upper_bound": 67237.09281023746,
+        "volatility": 0.003188918535364809
+    },
+    {
+        "timestamp": "2026-04-03 07:00:00",
+        "actual_price": 67042.08,
+        "lower_bound": 66151.22857040438,
+        "upper_bound": 67417.32005287292,
+        "volatility": 0.003188466302370301
+    },
+    {
+        "timestamp": "2026-04-03 08:00:00",
+        "actual_price": 66965.39,
+        "lower_bound": 66424.31211001966,
+        "upper_bound": 67648.34526334077,
+        "volatility": 0.0031791571164425762
+    },
+    {
+        "timestamp": "2026-04-03 09:00:00",
+        "actual_price": 66859.58,
+        "lower_bound": 66323.81031442729,
+        "upper_bound": 67595.31338818386,
+        "volatility": 0.003156450010146825
+    },
+    {
+        "timestamp": "2026-04-03 10:00:00",
+        "actual_price": 66883.08,
+        "lower_bound": 66273.46925646157,
+        "upper_bound": 67470.02597187825,
+        "volatility": 0.003148593098105157
+    },
+    {
+        "timestamp": "2026-04-03 11:00:00",
+        "actual_price": 67017.44,
+        "lower_bound": 66249.94562759825,
+        "upper_bound": 67500.50263381892,
+        "volatility": 0.0031243624903614818
+    },
+    {
+        "timestamp": "2026-04-03 12:00:00",
+        "actual_price": 66722.16,
+        "lower_bound": 66413.35564007884,
+        "upper_bound": 67639.1537632623,
+        "volatility": 0.0031298062933849432
+    },
+    {
+        "timestamp": "2026-04-03 13:00:00",
+        "actual_price": 66672.0,
+        "lower_bound": 65954.70702591253,
+        "upper_bound": 67435.81869579216,
+        "volatility": 0.0027027603871638776
+    },
+    {
+        "timestamp": "2026-04-03 14:00:00",
+        "actual_price": 66929.81,
+        "lower_bound": 65905.24325269145,
+        "upper_bound": 67460.09430333094,
+        "volatility": 0.0027042278949393796
+    },
+    {
+        "timestamp": "2026-04-03 15:00:00",
+        "actual_price": 66827.15,
+        "lower_bound": 66336.97289903866,
+        "upper_bound": 67526.22772195251,
+        "volatility": 0.0031433356372566096
+    },
+    {
+        "timestamp": "2026-04-03 16:00:00",
+        "actual_price": 67010.46,
+        "lower_bound": 66049.15413579067,
+        "upper_bound": 67577.66163161164,
+        "volatility": 0.0027083072031207347
+    },
+    {
+        "timestamp": "2026-04-03 17:00:00",
+        "actual_price": 66855.01,
+        "lower_bound": 66290.83896522399,
+        "upper_bound": 67755.29690837012,
+        "volatility": 0.0027049539186317214
+    },
+    {
+        "timestamp": "2026-04-03 18:00:00",
+        "actual_price": 66812.03,
+        "lower_bound": 66254.39610434754,
+        "upper_bound": 67467.82670242,
+        "volatility": 0.0031270121696417574
+    },
+    {
+        "timestamp": "2026-04-03 19:00:00",
+        "actual_price": 66885.74,
+        "lower_bound": 66188.16023095552,
+        "upper_bound": 67409.91517729075,
+        "volatility": 0.0031229169025370276
+    },
+    {
+        "timestamp": "2026-04-03 20:00:00",
+        "actual_price": 66831.98,
+        "lower_bound": 66290.48330040474,
+        "upper_bound": 67488.34621187151,
+        "volatility": 0.0031077272792179164
+    },
+    {
+        "timestamp": "2026-04-03 21:00:00",
+        "actual_price": 66964.21,
+        "lower_bound": 66225.46065921901,
+        "upper_bound": 67427.90690585547,
+        "volatility": 0.003097253886714448
+    },
+    {
+        "timestamp": "2026-04-03 22:00:00",
+        "actual_price": 66888.76,
+        "lower_bound": 66182.92346955424,
+        "upper_bound": 67694.81178623841,
+        "volatility": 0.002684399842194427
+    },
+    {
+        "timestamp": "2026-04-03 23:00:00",
+        "actual_price": 66964.3,
+        "lower_bound": 66291.119366251,
+        "upper_bound": 67505.89730516812,
+        "volatility": 0.003086502653349967
+    },
+    {
+        "timestamp": "2026-04-04 00:00:00",
+        "actual_price": 66893.39,
+        "lower_bound": 66197.91782000924,
+        "upper_bound": 67702.57864526313,
+        "volatility": 0.0026767130943676117
+    },
+    {
+        "timestamp": "2026-04-04 01:00:00",
+        "actual_price": 66852.0,
+        "lower_bound": 66271.29393547884,
+        "upper_bound": 67501.47549252032,
+        "volatility": 0.00309011243510389
+    },
+    {
+        "timestamp": "2026-04-04 02:00:00",
+        "actual_price": 66844.83,
+        "lower_bound": 66262.9533098959,
+        "upper_bound": 67424.29799285356,
+        "volatility": 0.003068495666042641
+    },
+    {
+        "timestamp": "2026-04-04 03:00:00",
+        "actual_price": 66832.18,
+        "lower_bound": 66246.49354562383,
+        "upper_bound": 67456.70308354529,
+        "volatility": 0.0030683525878541108
+    },
+    {
+        "timestamp": "2026-04-04 04:00:00",
+        "actual_price": 66860.73,
+        "lower_bound": 66255.38319982075,
+        "upper_bound": 67425.0319745894,
+        "volatility": 0.003068348014740099
+    },
+    {
+        "timestamp": "2026-04-04 05:00:00",
+        "actual_price": 66916.29,
+        "lower_bound": 66256.88539223684,
+        "upper_bound": 67466.81077609597,
+        "volatility": 0.0030665176793926263
+    },
+    {
+        "timestamp": "2026-04-04 06:00:00",
+        "actual_price": 67013.24,
+        "lower_bound": 66301.18473326336,
+        "upper_bound": 67513.2553062249,
+        "volatility": 0.0030660019948413973
+    },
+    {
+        "timestamp": "2026-04-04 07:00:00",
+        "actual_price": 67014.96,
+        "lower_bound": 66407.59674310037,
+        "upper_bound": 67645.43255443394,
+        "volatility": 0.003059870156976385
+    },
+    {
+        "timestamp": "2026-04-04 08:00:00",
+        "actual_price": 66940.0,
+        "lower_bound": 66406.74714942972,
+        "upper_bound": 67643.87942535584,
+        "volatility": 0.0030594406042125464
+    },
+    {
+        "timestamp": "2026-04-04 09:00:00",
+        "actual_price": 66988.05,
+        "lower_bound": 66348.9980253027,
+        "upper_bound": 67541.23333313163,
+        "volatility": 0.0030595364293067966
+    },
+    {
+        "timestamp": "2026-04-04 10:00:00",
+        "actual_price": 67167.0,
+        "lower_bound": 66246.30214081364,
+        "upper_bound": 67732.10071696107,
+        "volatility": 0.0026491370824601275
+    },
+    {
+        "timestamp": "2026-04-04 11:00:00",
+        "actual_price": 67156.93,
+        "lower_bound": 66575.68180037393,
+        "upper_bound": 67780.90921250531,
+        "volatility": 0.0030568252424498414
+    },
+    {
+        "timestamp": "2026-04-04 12:00:00",
+        "actual_price": 67097.87,
+        "lower_bound": 66542.75873866158,
+        "upper_bound": 67757.6504431071,
+        "volatility": 0.0030535503897082504
+    },
+    {
+        "timestamp": "2026-04-04 13:00:00",
+        "actual_price": 67193.44,
+        "lower_bound": 66301.95480955424,
+        "upper_bound": 67860.25203840598,
+        "volatility": 0.0026540944150387265
+    },
+    {
+        "timestamp": "2026-04-04 14:00:00",
+        "actual_price": 67215.24,
+        "lower_bound": 66605.67918137928,
+        "upper_bound": 67810.19623136723,
+        "volatility": 0.003056514703919126
+    },
+    {
+        "timestamp": "2026-04-04 15:00:00",
+        "actual_price": 67383.66,
+        "lower_bound": 66611.4777818029,
+        "upper_bound": 67812.79798815501,
+        "volatility": 0.003056294725732287
+    },
+    {
+        "timestamp": "2026-04-04 16:00:00",
+        "actual_price": 67366.68,
+        "lower_bound": 66774.41755761,
+        "upper_bound": 68002.78696232944,
+        "volatility": 0.0030618734051410497
+    },
+    {
+        "timestamp": "2026-04-04 17:00:00",
+        "actual_price": 67329.4,
+        "lower_bound": 66767.19654911238,
+        "upper_bound": 67975.75317136258,
+        "volatility": 0.0030619596982551186
+    },
+    {
+        "timestamp": "2026-04-04 18:00:00",
+        "actual_price": 67295.47,
+        "lower_bound": 66712.89191878062,
+        "upper_bound": 67949.04783565554,
+        "volatility": 0.0030598539249123624
+    },
+    {
+        "timestamp": "2026-04-04 19:00:00",
+        "actual_price": 67288.42,
+        "lower_bound": 66688.84593916115,
+        "upper_bound": 67927.64288058205,
+        "volatility": 0.0030356755702420453
+    },
+    {
+        "timestamp": "2026-04-04 20:00:00",
+        "actual_price": 67268.4,
+        "lower_bound": 66511.61363948697,
+        "upper_bound": 68082.38593629995,
+        "volatility": 0.0026336099882171664
+    },
+    {
+        "timestamp": "2026-04-04 21:00:00",
+        "actual_price": 67359.2,
+        "lower_bound": 66676.36858435211,
+        "upper_bound": 67866.07861880117,
+        "volatility": 0.0030227855315754374
+    },
+    {
+        "timestamp": "2026-04-04 22:00:00",
+        "actual_price": 67399.92,
+        "lower_bound": 66787.65801954652,
+        "upper_bound": 67965.7970916458,
+        "volatility": 0.0030020446662643602
+    },
+    {
+        "timestamp": "2026-04-04 23:00:00",
+        "actual_price": 67300.42,
+        "lower_bound": 66649.41035954483,
+        "upper_bound": 68156.73909910921,
+        "volatility": 0.0026198847801824424
+    },
+    {
+        "timestamp": "2026-04-05 00:00:00",
+        "actual_price": 67225.0,
+        "lower_bound": 66679.32605522008,
+        "upper_bound": 67916.39414235303,
+        "volatility": 0.0029887821323531334
+    },
+    {
+        "timestamp": "2026-04-05 01:00:00",
+        "actual_price": 67085.0,
+        "lower_bound": 66650.00528008644,
+        "upper_bound": 67843.51569351727,
+        "volatility": 0.0029864921498713518
+    },
+    {
+        "timestamp": "2026-04-05 02:00:00",
+        "actual_price": 67170.16,
+        "lower_bound": 66382.75951448931,
+        "upper_bound": 67823.39618481562,
+        "volatility": 0.00261824300239442
+    },
+    {
+        "timestamp": "2026-04-05 03:00:00",
+        "actual_price": 67145.98,
+        "lower_bound": 66399.31078318735,
+        "upper_bound": 67916.99149585013,
+        "volatility": 0.0026200801375499514
+    },
+    {
+        "timestamp": "2026-04-05 04:00:00",
+        "actual_price": 67101.65,
+        "lower_bound": 66552.00713936907,
+        "upper_bound": 67763.50970050176,
+        "volatility": 0.002979744178617871
+    },
+    {
+        "timestamp": "2026-04-05 05:00:00",
+        "actual_price": 66931.65,
+        "lower_bound": 66357.15153082223,
+        "upper_bound": 67803.860655535,
+        "volatility": 0.0026115212445695386
+    },
+    {
+        "timestamp": "2026-04-05 06:00:00",
+        "actual_price": 66802.24,
+        "lower_bound": 66337.5476245003,
+        "upper_bound": 67559.07901784423,
+        "volatility": 0.002987419165468944
+    },
+    {
+        "timestamp": "2026-04-05 07:00:00",
+        "actual_price": 66820.64,
+        "lower_bound": 66028.6388077029,
+        "upper_bound": 67526.57945423569,
+        "volatility": 0.0026221284596793697
+    },
+    {
+        "timestamp": "2026-04-05 08:00:00",
+        "actual_price": 66933.18,
+        "lower_bound": 66041.34509500724,
+        "upper_bound": 67556.5504553048,
+        "volatility": 0.0026127936637928635
+    },
+    {
+        "timestamp": "2026-04-05 09:00:00",
+        "actual_price": 67035.15,
+        "lower_bound": 66316.03221020634,
+        "upper_bound": 67522.86546462186,
+        "volatility": 0.002984487966963355
+    },
+    {
+        "timestamp": "2026-04-05 10:00:00",
+        "actual_price": 67046.01,
+        "lower_bound": 66421.34554186034,
+        "upper_bound": 67622.04277078541,
+        "volatility": 0.0029889588834151716
+    },
+    {
+        "timestamp": "2026-04-05 11:00:00",
+        "actual_price": 66999.0,
+        "lower_bound": 66463.39629333677,
+        "upper_bound": 67654.26156544774,
+        "volatility": 0.0029829596317354433
+    },
+    {
+        "timestamp": "2026-04-05 12:00:00",
+        "actual_price": 66783.58,
+        "lower_bound": 66244.77600978475,
+        "upper_bound": 67787.52666083215,
+        "volatility": 0.002613546780128033
+    },
+    {
+        "timestamp": "2026-04-05 13:00:00",
+        "actual_price": 66890.7,
+        "lower_bound": 66055.71123524041,
+        "upper_bound": 67547.09360115908,
+        "volatility": 0.002610774167931739
+    },
+    {
+        "timestamp": "2026-04-05 14:00:00",
+        "actual_price": 66918.03,
+        "lower_bound": 66312.53995024262,
+        "upper_bound": 67501.10072160517,
+        "volatility": 0.0029558872758267997
+    },
+    {
+        "timestamp": "2026-04-05 15:00:00",
+        "actual_price": 67306.64,
+        "lower_bound": 66332.43888334619,
+        "upper_bound": 67512.48158220151,
+        "volatility": 0.0029476779668911194
+    },
+    {
+        "timestamp": "2026-04-05 16:00:00",
+        "actual_price": 67212.62,
+        "lower_bound": 66714.70723247562,
+        "upper_bound": 67914.42989789981,
+        "volatility": 0.0029606536379670196
+    },
+    {
+        "timestamp": "2026-04-05 17:00:00",
+        "actual_price": 67373.64,
+        "lower_bound": 66490.72658539549,
+        "upper_bound": 67939.3138955209,
+        "volatility": 0.002591622455867455
+    },
+    {
+        "timestamp": "2026-04-05 18:00:00",
+        "actual_price": 67413.78,
+        "lower_bound": 66650.75755110529,
+        "upper_bound": 68090.77884298677,
+        "volatility": 0.0025816991795352545
+    },
+    {
+        "timestamp": "2026-04-05 19:00:00",
+        "actual_price": 67361.01,
+        "lower_bound": 66820.12682998014,
+        "upper_bound": 68025.61413246577,
+        "volatility": 0.002927993649810786
+    },
+    {
+        "timestamp": "2026-04-05 20:00:00",
+        "actual_price": 67658.35,
+        "lower_bound": 66618.65132897758,
+        "upper_bound": 68106.77161499334,
+        "volatility": 0.002570042497662667
+    },
+    {
+        "timestamp": "2026-04-05 21:00:00",
+        "actual_price": 67553.43,
+        "lower_bound": 67043.06141374659,
+        "upper_bound": 68248.04056639166,
+        "volatility": 0.0029183327725589322
+    },
+    {
+        "timestamp": "2026-04-05 22:00:00",
+        "actual_price": 68338.43,
+        "lower_bound": 66819.6125922593,
+        "upper_bound": 68263.75781891213,
+        "volatility": 0.0025676656067892246
+    },
+    {
+        "timestamp": "2026-04-05 23:00:00",
+        "actual_price": 69034.18,
+        "lower_bound": 67735.84448776468,
+        "upper_bound": 68954.790033966,
+        "volatility": 0.002916795767049976
+    },
+    {
+        "timestamp": "2026-04-06 00:00:00",
+        "actual_price": 69083.78,
+        "lower_bound": 68389.26387710612,
+        "upper_bound": 69661.54314759557,
+        "volatility": 0.0029194140137252973
+    },
+    {
+        "timestamp": "2026-04-06 01:00:00",
+        "actual_price": 68810.18,
+        "lower_bound": 68445.4703936783,
+        "upper_bound": 69700.56346806028,
+        "volatility": 0.002898229171256367
+    },
+    {
+        "timestamp": "2026-04-06 02:00:00",
+        "actual_price": 69207.99,
+        "lower_bound": 68062.04730211246,
+        "upper_bound": 69547.61713684113,
+        "volatility": 0.002559198605534766
+    },
+    {
+        "timestamp": "2026-04-06 03:00:00",
+        "actual_price": 69123.69,
+        "lower_bound": 68446.53176477892,
+        "upper_bound": 69935.80001638828,
+        "volatility": 0.0025618744308194257
+    },
+    {
+        "timestamp": "2026-04-06 04:00:00",
+        "actual_price": 69141.8,
+        "lower_bound": 68491.86423508526,
+        "upper_bound": 69764.11317745112,
+        "volatility": 0.0028839983523223887
+    },
+    {
+        "timestamp": "2026-04-06 05:00:00",
+        "actual_price": 69199.31,
+        "lower_bound": 68528.57443010548,
+        "upper_bound": 69758.60744329006,
+        "volatility": 0.00287796760852692
+    },
+    {
+        "timestamp": "2026-04-06 06:00:00",
+        "actual_price": 68976.67,
+        "lower_bound": 68465.62719330292,
+        "upper_bound": 69912.18682218838,
+        "volatility": 0.002534851470108966
+    },
+    {
+        "timestamp": "2026-04-06 07:00:00",
+        "actual_price": 69115.91,
+        "lower_bound": 68216.46866798794,
+        "upper_bound": 69763.58248793907,
+        "volatility": 0.0025353613054239074
+    },
+    {
+        "timestamp": "2026-04-06 08:00:00",
+        "actual_price": 69224.63,
+        "lower_bound": 68376.1453969048,
+        "upper_bound": 69870.20535861855,
+        "volatility": 0.002529269187959496
+    },
+    {
+        "timestamp": "2026-04-06 09:00:00",
+        "actual_price": 69728.0,
+        "lower_bound": 68507.5381307197,
+        "upper_bound": 70006.62200104473,
+        "volatility": 0.00252367173691391
+    },
+    {
+        "timestamp": "2026-04-06 10:00:00",
+        "actual_price": 69770.88,
+        "lower_bound": 68962.87962944317,
+        "upper_bound": 70462.0232132115,
+        "volatility": 0.0025220150562293648
+    },
+    {
+        "timestamp": "2026-04-06 11:00:00",
+        "actual_price": 69614.91,
+        "lower_bound": 68970.10098963648,
+        "upper_bound": 70498.75242702584,
+        "volatility": 0.0025107167888889282
+    },
+    {
+        "timestamp": "2026-04-06 12:00:00",
+        "actual_price": 69366.75,
+        "lower_bound": 68869.3124257906,
+        "upper_bound": 70320.9828866811,
+        "volatility": 0.0025031786131526077
+    },
+    {
+        "timestamp": "2026-04-06 13:00:00",
+        "actual_price": 69428.23,
+        "lower_bound": 68660.89369650237,
+        "upper_bound": 70131.06221643367,
+        "volatility": 0.0025079373370249904
+    },
+    {
+        "timestamp": "2026-04-06 14:00:00",
+        "actual_price": 69654.38,
+        "lower_bound": 68684.64029457181,
+        "upper_bound": 70173.40732440127,
+        "volatility": 0.002508515349441194
+    },
+    {
+        "timestamp": "2026-04-06 15:00:00",
+        "actual_price": 69968.87,
+        "lower_bound": 68915.6396791934,
+        "upper_bound": 70442.81831661148,
+        "volatility": 0.0025160602638103855
+    },
+    {
+        "timestamp": "2026-04-06 16:00:00",
+        "actual_price": 69799.14,
+        "lower_bound": 69258.6518526756,
+        "upper_bound": 70720.53651494384,
+        "volatility": 0.0025178041145131917
+    },
+    {
+        "timestamp": "2026-04-06 17:00:00",
+        "actual_price": 69574.61,
+        "lower_bound": 69069.51919089658,
+        "upper_bound": 70522.27431072868,
+        "volatility": 0.0025194747521402622
+    },
+    {
+        "timestamp": "2026-04-06 18:00:00",
+        "actual_price": 69888.97,
+        "lower_bound": 68864.36764937457,
+        "upper_bound": 70299.87200912973,
+        "volatility": 0.0025171287099089116
+    },
+    {
+        "timestamp": "2026-04-06 19:00:00",
+        "actual_price": 69739.53,
+        "lower_bound": 69145.60447676133,
+        "upper_bound": 70582.48540499293,
+        "volatility": 0.002525563067699051
+    },
+    {
+        "timestamp": "2026-04-06 20:00:00",
+        "actual_price": 69826.01,
+        "lower_bound": 68974.35380047023,
+        "upper_bound": 70479.11983438832,
+        "volatility": 0.002517924281276204
+    },
+    {
+        "timestamp": "2026-04-06 21:00:00",
+        "actual_price": 69504.99,
+        "lower_bound": 69126.0027770392,
+        "upper_bound": 70528.72151118792,
+        "volatility": 0.0025099788195488398
+    },
+    {
+        "timestamp": "2026-04-06 22:00:00",
+        "actual_price": 68811.0,
+        "lower_bound": 68781.76282686948,
+        "upper_bound": 70260.7540933007,
+        "volatility": 0.0025082185328579236
+    },
+    {
+        "timestamp": "2026-04-06 23:00:00",
+        "actual_price": 68853.66,
+        "lower_bound": 68091.08768781254,
+        "upper_bound": 69550.41299972899,
+        "volatility": 0.002508390899466967
+    },
+    {
+        "timestamp": "2026-04-07 00:00:00",
+        "actual_price": 68775.7,
+        "lower_bound": 68081.42716683033,
+        "upper_bound": 69542.89877035905,
+        "volatility": 0.002500726912872087
+    },
+    {
+        "timestamp": "2026-04-07 01:00:00",
+        "actual_price": 68400.01,
+        "lower_bound": 68069.14263994501,
+        "upper_bound": 69455.67884016535,
+        "volatility": 0.0024942761763955884
+    },
+    {
+        "timestamp": "2026-04-07 02:00:00",
+        "actual_price": 68674.0,
+        "lower_bound": 67637.78656211423,
+        "upper_bound": 69106.83476709321,
+        "volatility": 0.0025082335432711034
+    },
+    {
+        "timestamp": "2026-04-07 03:00:00",
+        "actual_price": 68779.21,
+        "lower_bound": 67877.2628368109,
+        "upper_bound": 69366.12889936286,
+        "volatility": 0.0025131486467639625
+    },
+    {
+        "timestamp": "2026-04-07 04:00:00",
+        "actual_price": 68854.65,
+        "lower_bound": 68073.17456026917,
+        "upper_bound": 69477.11279041923,
+        "volatility": 0.0025148076524351857
+    },
+    {
+        "timestamp": "2026-04-07 05:00:00",
+        "actual_price": 68669.0,
+        "lower_bound": 68125.04973463004,
+        "upper_bound": 69599.07646869269,
+        "volatility": 0.0025063081891837802
+    },
+    {
+        "timestamp": "2026-04-07 06:00:00",
+        "actual_price": 68568.35,
+        "lower_bound": 67938.71350836291,
+        "upper_bound": 69378.76472727572,
+        "volatility": 0.002505846918482009
+    },
+    {
+        "timestamp": "2026-04-07 07:00:00",
+        "actual_price": 68624.61,
+        "lower_bound": 67896.5499369165,
+        "upper_bound": 69288.51836050792,
+        "volatility": 0.002498862899912623
+    },
+    {
+        "timestamp": "2026-04-07 08:00:00",
+        "actual_price": 68936.71,
+        "lower_bound": 67851.44493480476,
+        "upper_bound": 69355.3153722073,
+        "volatility": 0.002488386493757222
+    },
+    {
+        "timestamp": "2026-04-07 09:00:00",
+        "actual_price": 69150.05,
+        "lower_bound": 68189.8438785693,
+        "upper_bound": 69689.98793842233,
+        "volatility": 0.002495503621345535
+    },
+    {
+        "timestamp": "2026-04-07 10:00:00",
+        "actual_price": 68237.93,
+        "lower_bound": 68414.33393501192,
+        "upper_bound": 69864.63384657326,
+        "volatility": 0.0024869616936913697
+    },
+    {
+        "timestamp": "2026-04-07 11:00:00",
+        "actual_price": 68345.75,
+        "lower_bound": 67477.53092493655,
+        "upper_bound": 68927.19754828408,
+        "volatility": 0.0024894680656012825
+    },
+    {
+        "timestamp": "2026-04-07 12:00:00",
+        "actual_price": 68392.18,
+        "lower_bound": 67646.1809139211,
+        "upper_bound": 69048.99449205099,
+        "volatility": 0.002484164152452825
+    },
+    {
+        "timestamp": "2026-04-07 13:00:00",
+        "actual_price": 68231.99,
+        "lower_bound": 67610.84651117913,
+        "upper_bound": 69088.70743923407,
+        "volatility": 0.0024731422537875797
+    },
+    {
+        "timestamp": "2026-04-07 14:00:00",
+        "actual_price": 67860.48,
+        "lower_bound": 67523.52404977872,
+        "upper_bound": 68932.35298915581,
+        "volatility": 0.0024748799356885875
+    },
+    {
+        "timestamp": "2026-04-07 15:00:00",
+        "actual_price": 68168.1,
+        "lower_bound": 67147.09723338323,
+        "upper_bound": 68638.70994821454,
+        "volatility": 0.0024830855594716403
+    },
+    {
+        "timestamp": "2026-04-07 16:00:00",
+        "actual_price": 68229.99,
+        "lower_bound": 67466.84276688453,
+        "upper_bound": 68876.2935910752,
+        "volatility": 0.0024939844385734123
+    },
+    {
+        "timestamp": "2026-04-07 17:00:00",
+        "actual_price": 68705.81,
+        "lower_bound": 67517.22757696277,
+        "upper_bound": 68943.79199150695,
+        "volatility": 0.0024892503653639137
+    },
+    {
+        "timestamp": "2026-04-07 18:00:00",
+        "actual_price": 68442.53,
+        "lower_bound": 67953.63945328906,
+        "upper_bound": 69440.30775116791,
+        "volatility": 0.002489676562932733
+    },
+    {
+        "timestamp": "2026-04-07 19:00:00",
+        "actual_price": 69011.29,
+        "lower_bound": 67735.99961645002,
+        "upper_bound": 69167.3442859231,
+        "volatility": 0.002486838176736844
+    },
+    {
+        "timestamp": "2026-04-07 20:00:00",
+        "actual_price": 69319.39,
+        "lower_bound": 68278.06039332743,
+        "upper_bound": 69738.72934726236,
+        "volatility": 0.0025011844490143856
+    },
+    {
+        "timestamp": "2026-04-07 21:00:00",
+        "actual_price": 69927.64,
+        "lower_bound": 68551.87898125433,
+        "upper_bound": 70082.2905298624,
+        "volatility": 0.002505625709723405
+    },
+    {
+        "timestamp": "2026-04-07 22:00:00",
+        "actual_price": 71514.09,
+        "lower_bound": 69188.2012573112,
+        "upper_bound": 70637.20098352552,
+        "volatility": 0.0025120785420990185
+    },
+    {
+        "timestamp": "2026-04-07 23:00:00",
+        "actual_price": 71924.22,
+        "lower_bound": 70797.73633098279,
+        "upper_bound": 72257.94010474844,
+        "volatility": 0.0025270492588714754
+    },
+    {
+        "timestamp": "2026-04-08 00:00:00",
+        "actual_price": 71710.19,
+        "lower_bound": 71143.51484605022,
+        "upper_bound": 72695.34599945028,
+        "volatility": 0.0025293128470296414
+    },
+    {
+        "timestamp": "2026-04-08 01:00:00",
+        "actual_price": 71476.97,
+        "lower_bound": 70995.8971982755,
+        "upper_bound": 72452.36016364969,
+        "volatility": 0.00252898520006848
+    },
+    {
+        "timestamp": "2026-04-08 02:00:00",
+        "actual_price": 71364.94,
+        "lower_bound": 70697.21227665944,
+        "upper_bound": 72243.3235074621,
+        "volatility": 0.00253875184203229
+    },
+    {
+        "timestamp": "2026-04-08 03:00:00",
+        "actual_price": 71287.39,
+        "lower_bound": 70686.89056457512,
+        "upper_bound": 72041.19455895128,
+        "volatility": 0.0028046274326971807
+    },
+    {
+        "timestamp": "2026-04-08 04:00:00",
+        "actual_price": 71566.18,
+        "lower_bound": 70625.14285751032,
+        "upper_bound": 71953.68250597364,
+        "volatility": 0.0027968333648896995
+    },
+    {
+        "timestamp": "2026-04-08 05:00:00",
+        "actual_price": 71731.1,
+        "lower_bound": 70766.9214382948,
+        "upper_bound": 72304.2057401367,
+        "volatility": 0.0025441866638014595
+    },
+    {
+        "timestamp": "2026-04-08 06:00:00",
+        "actual_price": 71732.69,
+        "lower_bound": 70961.14893203831,
+        "upper_bound": 72491.50767865435,
+        "volatility": 0.0025398653531383247
+    },
+    {
+        "timestamp": "2026-04-08 07:00:00",
+        "actual_price": 71627.59,
+        "lower_bound": 70990.1311696746,
+        "upper_bound": 72492.41981507908,
+        "volatility": 0.0025218228182143643
+    },
+    {
+        "timestamp": "2026-04-08 08:00:00",
+        "actual_price": 71800.0,
+        "lower_bound": 70909.9049084075,
+        "upper_bound": 72387.77629783089,
+        "volatility": 0.0025082091161188836
+    },
+    {
+        "timestamp": "2026-04-08 09:00:00",
+        "actual_price": 71678.87,
+        "lower_bound": 71071.78327841722,
+        "upper_bound": 72538.32254391519,
+        "volatility": 0.0025044481093874633
+    },
+    {
+        "timestamp": "2026-04-08 10:00:00",
+        "actual_price": 71476.98,
+        "lower_bound": 70948.38738051892,
+        "upper_bound": 72382.82846563966,
+        "volatility": 0.0024908872196642345
+    },
+    {
+        "timestamp": "2026-04-08 11:00:00",
+        "actual_price": 71675.12,
+        "lower_bound": 70727.0469908993,
+        "upper_bound": 72199.46706156207,
+        "volatility": 0.0024894815682684067
+    },
+    {
+        "timestamp": "2026-04-08 12:00:00",
+        "actual_price": 72071.95,
+        "lower_bound": 70925.43348973029,
+        "upper_bound": 72456.42269517128,
+        "volatility": 0.002490464822819205
+    },
+    {
+        "timestamp": "2026-04-08 13:00:00",
+        "actual_price": 71600.01,
+        "lower_bound": 71349.65783531168,
+        "upper_bound": 72839.09385647428,
+        "volatility": 0.0024932396368937725
+    },
+    {
+        "timestamp": "2026-04-08 14:00:00",
+        "actual_price": 70912.88,
+        "lower_bound": 70884.54823511485,
+        "upper_bound": 72339.81653677457,
+        "volatility": 0.0024926702882424774
+    },
+    {
+        "timestamp": "2026-04-08 15:00:00",
+        "actual_price": 71310.0,
+        "lower_bound": 70143.0997604478,
+        "upper_bound": 71672.3596652358,
+        "volatility": 0.002509673428856156
+    },
+    {
+        "timestamp": "2026-04-08 16:00:00",
+        "actual_price": 71602.1,
+        "lower_bound": 70490.55610524997,
+        "upper_bound": 72095.44697073332,
+        "volatility": 0.002518328841486524
+    },
+    {
+        "timestamp": "2026-04-08 17:00:00",
+        "actual_price": 71888.19,
+        "lower_bound": 70863.65521794275,
+        "upper_bound": 72360.59651745211,
+        "volatility": 0.0025276828893594015
+    },
+    {
+        "timestamp": "2026-04-08 18:00:00",
+        "actual_price": 71099.63,
+        "lower_bound": 71146.4417878704,
+        "upper_bound": 72634.6891457623,
+        "volatility": 0.002534167123207424
+    },
+    {
+        "timestamp": "2026-04-08 19:00:00",
+        "actual_price": 71318.48,
+        "lower_bound": 70461.84921764935,
+        "upper_bound": 71749.41501845041,
+        "volatility": 0.002852228632413211
+    },
+    {
+        "timestamp": "2026-04-08 20:00:00",
+        "actual_price": 71372.93,
+        "lower_bound": 70651.08283931714,
+        "upper_bound": 71987.16282644273,
+        "volatility": 0.0028518724803802617
+    },
+    {
+        "timestamp": "2026-04-08 21:00:00",
+        "actual_price": 71551.39,
+        "lower_bound": 70745.38654290704,
+        "upper_bound": 72000.4767536147,
+        "volatility": 0.0028478235616131893
+    },
+    {
+        "timestamp": "2026-04-08 22:00:00",
+        "actual_price": 71064.84,
+        "lower_bound": 70922.63178679055,
+        "upper_bound": 72203.51368847684,
+        "volatility": 0.0028577378955979673
+    },
+    {
+        "timestamp": "2026-04-08 23:00:00",
+        "actual_price": 71069.93,
+        "lower_bound": 70403.61596146181,
+        "upper_bound": 71714.5465119377,
+        "volatility": 0.0028714130637848435
+    },
+    {
+        "timestamp": "2026-04-09 00:00:00",
+        "actual_price": 70815.5,
+        "lower_bound": 70327.92427557838,
+        "upper_bound": 71879.57258687774,
+        "volatility": 0.002546180922263469
+    },
+    {
+        "timestamp": "2026-04-09 01:00:00",
+        "actual_price": 70928.89,
+        "lower_bound": 70163.4067822493,
+        "upper_bound": 71480.85673552121,
+        "volatility": 0.0028650458090524744
+    },
+    {
+        "timestamp": "2026-04-09 02:00:00",
+        "actual_price": 71060.64,
+        "lower_bound": 70322.61774194978,
+        "upper_bound": 71592.81792233668,
+        "volatility": 0.0028552371343281246
+    },
+    {
+        "timestamp": "2026-04-09 03:00:00",
+        "actual_price": 70992.39,
+        "lower_bound": 70287.55821857523,
+        "upper_bound": 71809.44087497139,
+        "volatility": 0.0025377067170231126
+    },
+    {
+        "timestamp": "2026-04-09 04:00:00",
+        "actual_price": 70782.0,
+        "lower_bound": 70237.1174256777,
+        "upper_bound": 71768.93092887246,
+        "volatility": 0.0025309916373324193
+    },
+    {
+        "timestamp": "2026-04-09 05:00:00",
+        "actual_price": 70984.0,
+        "lower_bound": 70044.67362670728,
+        "upper_bound": 71522.84310319515,
+        "volatility": 0.0025249736453852754
+    },
+    {
+        "timestamp": "2026-04-09 06:00:00",
+        "actual_price": 71031.84,
+        "lower_bound": 70242.38769650212,
+        "upper_bound": 71699.71183145801,
+        "volatility": 0.002517397473375374
+    },
+    {
+        "timestamp": "2026-04-09 07:00:00",
+        "actual_price": 70982.01,
+        "lower_bound": 70266.84102578044,
+        "upper_bound": 71772.3938051245,
+        "volatility": 0.0025103749179171838
+    },
+    {
+        "timestamp": "2026-04-09 08:00:00",
+        "actual_price": 71249.51,
+        "lower_bound": 70193.54453466501,
+        "upper_bound": 71704.7022762355,
+        "volatility": 0.0024944494666528563
+    },
+    {
+        "timestamp": "2026-04-09 09:00:00",
+        "actual_price": 71534.68,
+        "lower_bound": 70438.24602765976,
+        "upper_bound": 71975.54875198481,
+        "volatility": 0.002488147158225815
+    },
+    {
+        "timestamp": "2026-04-09 10:00:00",
+        "actual_price": 71276.45,
+        "lower_bound": 70895.61825603705,
+        "upper_bound": 72219.06576671546,
+        "volatility": 0.0027749808777552537
+    },
+    {
+        "timestamp": "2026-04-09 11:00:00",
+        "actual_price": 71150.17,
+        "lower_bound": 70530.7054105591,
+        "upper_bound": 72086.36558714308,
+        "volatility": 0.002491688919676635
+    },
+    {
+        "timestamp": "2026-04-09 12:00:00",
+        "actual_price": 71279.63,
+        "lower_bound": 70415.22288469865,
+        "upper_bound": 71910.75748150882,
+        "volatility": 0.002496021030815231
+    },
+    {
+        "timestamp": "2026-04-09 13:00:00",
+        "actual_price": 70801.98,
+        "lower_bound": 70515.14877809705,
+        "upper_bound": 72059.61658552835,
+        "volatility": 0.0024865760002420155
+    },
+    {
+        "timestamp": "2026-04-09 14:00:00",
+        "actual_price": 71123.71,
+        "lower_bound": 70003.8936281315,
+        "upper_bound": 71521.76022557118,
+        "volatility": 0.002501645538204259
+    },
+    {
+        "timestamp": "2026-04-09 15:00:00",
+        "actual_price": 72141.99,
+        "lower_bound": 70415.11585478082,
+        "upper_bound": 71960.88732385285,
+        "volatility": 0.0024987372993762764
+    },
+    {
+        "timestamp": "2026-04-09 16:00:00",
+        "actual_price": 72080.87,
+        "lower_bound": 71361.36809792618,
+        "upper_bound": 72902.46351092358,
+        "volatility": 0.002508330207149274
+    },
+    {
+        "timestamp": "2026-04-09 17:00:00",
+        "actual_price": 72347.49,
+        "lower_bound": 71320.43417191721,
+        "upper_bound": 72860.80840765116,
+        "volatility": 0.002508064090645656
+    },
+    {
+        "timestamp": "2026-04-09 18:00:00",
+        "actual_price": 71888.69,
+        "lower_bound": 71610.46977243424,
+        "upper_bound": 73133.90042763727,
+        "volatility": 0.002507193874139644
+    },
+    {
+        "timestamp": "2026-04-09 19:00:00",
+        "actual_price": 72096.32,
+        "lower_bound": 71068.29371061656,
+        "upper_bound": 72708.62427824116,
+        "volatility": 0.0025118561751889023
+    },
+    {
+        "timestamp": "2026-04-09 20:00:00",
+        "actual_price": 72413.97,
+        "lower_bound": 71326.3341305994,
+        "upper_bound": 72907.47746929401,
+        "volatility": 0.002509531391156836
+    },
+    {
+        "timestamp": "2026-04-09 21:00:00",
+        "actual_price": 72264.95,
+        "lower_bound": 71617.54714710952,
+        "upper_bound": 73188.23616854464,
+        "volatility": 0.0025126367125530794
+    },
+    {
+        "timestamp": "2026-04-09 22:00:00",
+        "actual_price": 71946.01,
+        "lower_bound": 71450.66715523292,
+        "upper_bound": 73044.01763770709,
+        "volatility": 0.002518521724155602
+    },
+    {
+        "timestamp": "2026-04-09 23:00:00",
+        "actual_price": 71787.97,
+        "lower_bound": 71143.12832238174,
+        "upper_bound": 72697.84114512845,
+        "volatility": 0.0025204395098892083
+    },
+    {
+        "timestamp": "2026-04-10 00:00:00",
+        "actual_price": 71963.03,
+        "lower_bound": 71021.17687275413,
+        "upper_bound": 72564.11398812187,
+        "volatility": 0.0025258155836542957
+    },
+    {
+        "timestamp": "2026-04-10 01:00:00",
+        "actual_price": 72157.93,
+        "lower_bound": 71158.94698910537,
+        "upper_bound": 72799.15727114424,
+        "volatility": 0.0025238590725948197
+    },
+    {
+        "timestamp": "2026-04-10 02:00:00",
+        "actual_price": 71965.36,
+        "lower_bound": 71377.60023044387,
+        "upper_bound": 72925.28129574467,
+        "volatility": 0.002526457617672674
+    },
+    {
+        "timestamp": "2026-04-10 03:00:00",
+        "actual_price": 71868.67,
+        "lower_bound": 71205.41078911032,
+        "upper_bound": 72712.02641199648,
+        "volatility": 0.002522958106167076
+    },
+    {
+        "timestamp": "2026-04-10 04:00:00",
+        "actual_price": 72117.29,
+        "lower_bound": 71088.37347684408,
+        "upper_bound": 72648.53939266005,
+        "volatility": 0.002519914404724364
+    },
+    {
+        "timestamp": "2026-04-10 05:00:00",
+        "actual_price": 72127.84,
+        "lower_bound": 71275.68143065054,
+        "upper_bound": 72888.80626373191,
+        "volatility": 0.0025127873448183157
+    },
+    {
+        "timestamp": "2026-04-10 06:00:00",
+        "actual_price": 71805.38,
+        "lower_bound": 71334.53908258028,
+        "upper_bound": 72894.60927379652,
+        "volatility": 0.0025126572040750908
+    },
+    {
+        "timestamp": "2026-04-10 07:00:00",
+        "actual_price": 71481.85,
+        "lower_bound": 71048.41247995156,
+        "upper_bound": 72567.98884815988,
+        "volatility": 0.002520575998614186
+    },
+    {
+        "timestamp": "2026-04-10 08:00:00",
+        "actual_price": 71606.07,
+        "lower_bound": 70721.60179891487,
+        "upper_bound": 72240.75463134226,
+        "volatility": 0.0025279044848802844
+    },
+    {
+        "timestamp": "2026-04-10 09:00:00",
+        "actual_price": 71787.41,
+        "lower_bound": 70838.23863599372,
+        "upper_bound": 72393.40333733142,
+        "volatility": 0.0025152655302987685
+    },
+    {
+        "timestamp": "2026-04-10 10:00:00",
+        "actual_price": 71910.09,
+        "lower_bound": 71032.17351908569,
+        "upper_bound": 72578.83724492964,
+        "volatility": 0.002515742374374109
+    },
+    {
+        "timestamp": "2026-04-10 11:00:00",
+        "actual_price": 72127.59,
+        "lower_bound": 71107.24684992975,
+        "upper_bound": 72686.16260296818,
+        "volatility": 0.002515511729583948
+    },
+    {
+        "timestamp": "2026-04-10 12:00:00",
+        "actual_price": 72258.68,
+        "lower_bound": 71310.03381030739,
+        "upper_bound": 72930.14184256869,
+        "volatility": 0.0025214421765150383
+    },
+    {
+        "timestamp": "2026-04-10 13:00:00",
+        "actual_price": 72321.4,
+        "lower_bound": 71514.01993800918,
+        "upper_bound": 73047.42469334543,
+        "volatility": 0.0025195068266763835
+    },
+    {
+        "timestamp": "2026-04-10 14:00:00",
+        "actual_price": 72909.0,
+        "lower_bound": 71561.73708486948,
+        "upper_bound": 73073.03656087608,
+        "volatility": 0.0025102644551092783
+    },
+    {
+        "timestamp": "2026-04-10 15:00:00",
+        "actual_price": 72460.51,
+        "lower_bound": 72160.43520113562,
+        "upper_bound": 73704.94760703454,
+        "volatility": 0.002512367134971983
+    },
+    {
+        "timestamp": "2026-04-10 16:00:00",
+        "actual_price": 72992.33,
+        "lower_bound": 71695.00848267371,
+        "upper_bound": 73285.75587278332,
+        "volatility": 0.002523069170645145
+    },
+    {
+        "timestamp": "2026-04-10 17:00:00",
+        "actual_price": 73121.66,
+        "lower_bound": 72166.17085473693,
+        "upper_bound": 73761.96157175007,
+        "volatility": 0.002523318694160482
+    },
+    {
+        "timestamp": "2026-04-10 18:00:00",
+        "actual_price": 73107.07,
+        "lower_bound": 72307.10235433471,
+        "upper_bound": 73911.44635439882,
+        "volatility": 0.0025190426007121814
+    },
+    {
+        "timestamp": "2026-04-10 19:00:00",
+        "actual_price": 73236.11,
+        "lower_bound": 72295.3093774397,
+        "upper_bound": 73907.09253874232,
+        "volatility": 0.0025081254171605534
+    },
+    {
+        "timestamp": "2026-04-10 20:00:00",
+        "actual_price": 73361.68,
+        "lower_bound": 72432.12463087442,
+        "upper_bound": 74026.8021126357,
+        "volatility": 0.002506060346806197
+    },
+    {
+        "timestamp": "2026-04-10 21:00:00",
+        "actual_price": 73190.67,
+        "lower_bound": 72603.70100216515,
+        "upper_bound": 74158.61738195627,
+        "volatility": 0.0024990762844428215
+    },
+    {
+        "timestamp": "2026-04-10 22:00:00",
+        "actual_price": 72877.0,
+        "lower_bound": 72368.7454590026,
+        "upper_bound": 73986.28944484406,
+        "volatility": 0.0024971595229710064
+    },
+    {
+        "timestamp": "2026-04-10 23:00:00",
+        "actual_price": 72962.7,
+        "lower_bound": 72125.68693513852,
+        "upper_bound": 73649.14566405692,
+        "volatility": 0.0025072139455605638
+    },
+    {
+        "timestamp": "2026-04-11 00:00:00",
+        "actual_price": 72828.42,
+        "lower_bound": 72136.35168501975,
+        "upper_bound": 73758.70490929211,
+        "volatility": 0.002508141290597969
+    },
+    {
+        "timestamp": "2026-04-11 01:00:00",
+        "actual_price": 72954.39,
+        "lower_bound": 72076.97811943803,
+        "upper_bound": 73585.47573201927,
+        "volatility": 0.002512544037794384
+    },
+    {
+        "timestamp": "2026-04-11 02:00:00",
+        "actual_price": 72966.57,
+        "lower_bound": 72100.81344417743,
+        "upper_bound": 73727.98616264493,
+        "volatility": 0.0025144532232674105
+    },
+    {
+        "timestamp": "2026-04-11 03:00:00",
+        "actual_price": 72866.63,
+        "lower_bound": 72152.79348209691,
+        "upper_bound": 73743.93435210826,
+        "volatility": 0.002513078874883552
+    },
+    {
+        "timestamp": "2026-04-11 04:00:00",
+        "actual_price": 72806.08,
+        "lower_bound": 72055.19662306039,
+        "upper_bound": 73639.08998904946,
+        "volatility": 0.0025114782254923324
+    },
+    {
+        "timestamp": "2026-04-11 05:00:00",
+        "actual_price": 72722.28,
+        "lower_bound": 72019.38967110103,
+        "upper_bound": 73557.54905251907,
+        "volatility": 0.0025123728176300805
+    },
+    {
+        "timestamp": "2026-04-11 06:00:00",
+        "actual_price": 72762.0,
+        "lower_bound": 71964.7770329567,
+        "upper_bound": 73510.62319957186,
+        "volatility": 0.0025132083151711082
+    },
+    {
+        "timestamp": "2026-04-11 07:00:00",
+        "actual_price": 72745.38,
+        "lower_bound": 71993.90833908916,
+        "upper_bound": 73573.03888451484,
+        "volatility": 0.0025132160527608655
+    },
+    {
+        "timestamp": "2026-04-11 08:00:00",
+        "actual_price": 72664.17,
+        "lower_bound": 71912.8626959709,
+        "upper_bound": 73551.30364304749,
+        "volatility": 0.0025125379091265818
+    },
+    {
+        "timestamp": "2026-04-11 09:00:00",
+        "actual_price": 72907.11,
+        "lower_bound": 71866.07812566345,
+        "upper_bound": 73517.85975909127,
+        "volatility": 0.0025148665611318963
+    },
+    {
+        "timestamp": "2026-04-11 10:00:00",
+        "actual_price": 72843.71,
+        "lower_bound": 72134.86482647053,
+        "upper_bound": 73716.27132788401,
+        "volatility": 0.002518728706208652
+    },
+    {
+        "timestamp": "2026-04-11 11:00:00",
+        "actual_price": 72907.05,
+        "lower_bound": 72065.6153800291,
+        "upper_bound": 73612.23997696865,
+        "volatility": 0.0025205593543738214
+    },
+    {
+        "timestamp": "2026-04-11 12:00:00",
+        "actual_price": 72940.49,
+        "lower_bound": 72151.58360627446,
+        "upper_bound": 73715.33702982371,
+        "volatility": 0.0025078834001150815
+    },
+    {
+        "timestamp": "2026-04-11 13:00:00",
+        "actual_price": 72658.07,
+        "lower_bound": 72153.5548103622,
+        "upper_bound": 73774.6950011249,
+        "volatility": 0.0025081369358837973
+    },
+    {
+        "timestamp": "2026-04-11 14:00:00",
+        "actual_price": 72704.67,
+        "lower_bound": 71874.40778753425,
+        "upper_bound": 73439.53959966493,
+        "volatility": 0.0025179425656414877
+    },
+    {
+        "timestamp": "2026-04-11 15:00:00",
+        "actual_price": 72858.17,
+        "lower_bound": 71920.7989979941,
+        "upper_bound": 73483.35727478209,
+        "volatility": 0.002518454962958304
+    },
+    {
+        "timestamp": "2026-04-11 16:00:00",
+        "actual_price": 73034.33,
+        "lower_bound": 72083.82962708345,
+        "upper_bound": 73664.1907146179,
+        "volatility": 0.0025215112117550863
+    },
+    {
+        "timestamp": "2026-04-11 17:00:00",
+        "actual_price": 73095.97,
+        "lower_bound": 72222.7021694746,
+        "upper_bound": 73830.51233248587,
+        "volatility": 0.002522125455488835
+    },
+    {
+        "timestamp": "2026-04-11 18:00:00",
+        "actual_price": 73547.89,
+        "lower_bound": 72300.34589793145,
+        "upper_bound": 73854.98767193763,
+        "volatility": 0.002520704218946459
+    },
+    {
+        "timestamp": "2026-04-11 19:00:00",
+        "actual_price": 73687.15,
+        "lower_bound": 72817.13247683035,
+        "upper_bound": 74306.41199596418,
+        "volatility": 0.002563500904969867
+    },
+    {
+        "timestamp": "2026-04-11 20:00:00",
+        "actual_price": 73290.43,
+        "lower_bound": 72953.89777549494,
+        "upper_bound": 74433.61286717207,
+        "volatility": 0.0025663747352937093
+    },
+    {
+        "timestamp": "2026-04-11 21:00:00",
+        "actual_price": 73427.04,
+        "lower_bound": 72518.95272697731,
+        "upper_bound": 74119.2322452062,
+        "volatility": 0.002533600320958602
+    },
+    {
+        "timestamp": "2026-04-11 22:00:00",
+        "actual_price": 73376.01,
+        "lower_bound": 72616.3049967837,
+        "upper_bound": 74231.7019078114,
+        "volatility": 0.0025262880295913405
+    },
+    {
+        "timestamp": "2026-04-11 23:00:00",
+        "actual_price": 73043.16,
+        "lower_bound": 72579.76746791536,
+        "upper_bound": 74178.60557966054,
+        "volatility": 0.0025267689319785594
+    },
+    {
+        "timestamp": "2026-04-12 00:00:00",
+        "actual_price": 73079.96,
+        "lower_bound": 72249.54175788286,
+        "upper_bound": 73814.38057338512,
+        "volatility": 0.002539709440752191
+    },
+    {
+        "timestamp": "2026-04-12 01:00:00",
+        "actual_price": 71643.69,
+        "lower_bound": 72253.97218950931,
+        "upper_bound": 73916.11136028115,
+        "volatility": 0.002530820056673568
+    },
+    {
+        "timestamp": "2026-04-12 02:00:00",
+        "actual_price": 71761.35,
+        "lower_bound": 70881.4855891852,
+        "upper_bound": 72461.61007821368,
+        "volatility": 0.0025486548202297682
+    },
+    {
+        "timestamp": "2026-04-12 03:00:00",
+        "actual_price": 71593.19,
+        "lower_bound": 70957.17533649258,
+        "upper_bound": 72521.31939482888,
+        "volatility": 0.0025400999709767327
+    },
+    {
+        "timestamp": "2026-04-12 04:00:00",
+        "actual_price": 71466.53,
+        "lower_bound": 70788.76094137579,
+        "upper_bound": 72397.4531893552,
+        "volatility": 0.0025428254982356275
+    },
+    {
+        "timestamp": "2026-04-12 05:00:00",
+        "actual_price": 71710.2,
+        "lower_bound": 70712.40367046016,
+        "upper_bound": 72254.20124053724,
+        "volatility": 0.002547589996716197
+    },
+    {
+        "timestamp": "2026-04-12 06:00:00",
+        "actual_price": 71668.01,
+        "lower_bound": 70928.86680710032,
+        "upper_bound": 72508.10129303903,
+        "volatility": 0.0025473784145338824
+    },
+    {
+        "timestamp": "2026-04-12 07:00:00",
+        "actual_price": 71665.0,
+        "lower_bound": 70783.47791305231,
+        "upper_bound": 72462.48252754664,
+        "volatility": 0.002533314650064078
+    },
+    {
+        "timestamp": "2026-04-12 08:00:00",
+        "actual_price": 71629.21,
+        "lower_bound": 70950.84109138514,
+        "upper_bound": 72436.76198142079,
+        "volatility": 0.0025202727444108355
+    },
+    {
+        "timestamp": "2026-04-12 09:00:00",
+        "actual_price": 71531.94,
+        "lower_bound": 70842.25811241909,
+        "upper_bound": 72428.77289666011,
+        "volatility": 0.0025207173351439044
+    },
+    {
+        "timestamp": "2026-04-12 10:00:00",
+        "actual_price": 71452.89,
+        "lower_bound": 70749.33961211829,
+        "upper_bound": 72278.06605319316,
+        "volatility": 0.002524018726421849
+    },
+    {
+        "timestamp": "2026-04-12 11:00:00",
+        "actual_price": 71468.55,
+        "lower_bound": 70692.76410413803,
+        "upper_bound": 72296.08564692797,
+        "volatility": 0.0025228418623151278
+    },
+    {
+        "timestamp": "2026-04-12 12:00:00",
+        "actual_price": 71084.01,
+        "lower_bound": 70679.14661986782,
+        "upper_bound": 72222.67966393071,
+        "volatility": 0.002521771937272946
+    },
+    {
+        "timestamp": "2026-04-12 13:00:00",
+        "actual_price": 70889.42,
+        "lower_bound": 70296.86836160057,
+        "upper_bound": 71896.60429411629,
+        "volatility": 0.0025306502091012656
+    },
+    {
+        "timestamp": "2026-04-12 14:00:00",
+        "actual_price": 70748.34,
+        "lower_bound": 70124.52393158386,
+        "upper_bound": 71679.73330344562,
+        "volatility": 0.0025376986657961757
+    },
+    {
+        "timestamp": "2026-04-12 15:00:00",
+        "actual_price": 70892.03,
+        "lower_bound": 70046.38308664366,
+        "upper_bound": 71529.12959455184,
+        "volatility": 0.002528137653181258
+    },
+    {
+        "timestamp": "2026-04-12 16:00:00",
+        "actual_price": 70936.27,
+        "lower_bound": 70083.63706867458,
+        "upper_bound": 71683.90416911221,
+        "volatility": 0.0025312990543734258
+    },
+    {
+        "timestamp": "2026-04-12 17:00:00",
+        "actual_price": 71140.51,
+        "lower_bound": 70203.11839256751,
+        "upper_bound": 71702.59847684538,
+        "volatility": 0.002519662943294555
+    },
+    {
+        "timestamp": "2026-04-12 18:00:00",
+        "actual_price": 71137.64,
+        "lower_bound": 70399.04976004519,
+        "upper_bound": 71928.69643043866,
+        "volatility": 0.002512681115821354
+    },
+    {
+        "timestamp": "2026-04-12 19:00:00",
+        "actual_price": 71084.18,
+        "lower_bound": 70505.55797012684,
+        "upper_bound": 71789.66244892494,
+        "volatility": 0.0027878168324649436
+    },
+    {
+        "timestamp": "2026-04-12 20:00:00",
+        "actual_price": 71335.43,
+        "lower_bound": 70469.27365148485,
+        "upper_bound": 71752.32249614588,
+        "volatility": 0.0027774178733360076
+    },
+    {
+        "timestamp": "2026-04-12 21:00:00",
+        "actual_price": 71364.02,
+        "lower_bound": 70709.52879840233,
+        "upper_bound": 72013.86377492675,
+        "volatility": 0.0027776958525450018
+    },
+    {
+        "timestamp": "2026-04-12 22:00:00",
+        "actual_price": 70912.73,
+        "lower_bound": 70600.91008830619,
+        "upper_bound": 72185.46708470873,
+        "volatility": 0.002477064453164926
+    },
+    {
+        "timestamp": "2026-04-12 23:00:00",
+        "actual_price": 70740.98,
+        "lower_bound": 70189.08460271783,
+        "upper_bound": 71683.8276674612,
+        "volatility": 0.002481474048034285
+    },
+    {
+        "timestamp": "2026-04-13 00:00:00",
+        "actual_price": 71172.62,
+        "lower_bound": 69997.85326604132,
+        "upper_bound": 71582.28805369814,
+        "volatility": 0.0024753354799827527
+    },
+    {
+        "timestamp": "2026-04-13 01:00:00",
+        "actual_price": 71197.64,
+        "lower_bound": 70427.11717185486,
+        "upper_bound": 71915.60119088374,
+        "volatility": 0.002476426993043877
+    },
+    {
+        "timestamp": "2026-04-13 02:00:00",
+        "actual_price": 71073.14,
+        "lower_bound": 70437.51559911229,
+        "upper_bound": 71942.92103779994,
+        "volatility": 0.002459305237439773
+    },
+    {
+        "timestamp": "2026-04-13 03:00:00",
+        "actual_price": 70976.0,
+        "lower_bound": 70432.86717891699,
+        "upper_bound": 71725.63754659619,
+        "volatility": 0.0027280349700220374
+    },
+    {
+        "timestamp": "2026-04-13 04:00:00",
+        "actual_price": 70890.3,
+        "lower_bound": 70231.40961744408,
+        "upper_bound": 71705.68395907136,
+        "volatility": 0.0024516349365087363
+    },
+    {
+        "timestamp": "2026-04-13 05:00:00",
+        "actual_price": 70878.82,
+        "lower_bound": 70139.01745629936,
+        "upper_bound": 71630.61575011519,
+        "volatility": 0.002451093934394381
+    },
+    {
+        "timestamp": "2026-04-13 06:00:00",
+        "actual_price": 71017.66,
+        "lower_bound": 70116.99041803964,
+        "upper_bound": 71611.83802532985,
+        "volatility": 0.002443781057295289
+    },
+    {
+        "timestamp": "2026-04-13 07:00:00",
+        "actual_price": 70813.88,
+        "lower_bound": 70409.9754153364,
+        "upper_bound": 71646.63144747066,
+        "volatility": 0.0027295492434416353
+    },
+    {
+        "timestamp": "2026-04-13 08:00:00",
+        "actual_price": 70680.7,
+        "lower_bound": 70204.05288253467,
+        "upper_bound": 71452.10546434116,
+        "volatility": 0.0027222410216909366
+    },
+    {
+        "timestamp": "2026-04-13 09:00:00",
+        "actual_price": 70792.88,
+        "lower_bound": 70081.72178708304,
+        "upper_bound": 71285.90471207269,
+        "volatility": 0.00271213765725608
+    },
+    {
+        "timestamp": "2026-04-13 10:00:00",
+        "actual_price": 70755.88,
+        "lower_bound": 70184.17427496666,
+        "upper_bound": 71406.24999428754,
+        "volatility": 0.0027162860286724048
+    },
+    {
+        "timestamp": "2026-04-13 11:00:00",
+        "actual_price": 70929.68,
+        "lower_bound": 70038.51698406452,
+        "upper_bound": 71476.37909086453,
+        "volatility": 0.002400821125465084
+    },
+    {
+        "timestamp": "2026-04-13 12:00:00",
+        "actual_price": 71074.91,
+        "lower_bound": 70336.42468728819,
+        "upper_bound": 71542.07949209763,
+        "volatility": 0.0027093736833360997
+    },
+    {
+        "timestamp": "2026-04-13 13:00:00",
+        "actual_price": 71662.65,
+        "lower_bound": 70517.41817964906,
+        "upper_bound": 71668.55004831702,
+        "volatility": 0.0026957000074571275
+    },
+    {
+        "timestamp": "2026-04-13 14:00:00",
+        "actual_price": 72400.15,
+        "lower_bound": 71076.99693978889,
+        "upper_bound": 72257.56378190941,
+        "volatility": 0.0027154046292824927
+    },
+    {
+        "timestamp": "2026-04-13 15:00:00",
+        "actual_price": 71866.59,
+        "lower_bound": 71812.17506946564,
+        "upper_bound": 72979.23074503681,
+        "volatility": 0.0027110948878061513
+    },
+    {
+        "timestamp": "2026-04-13 16:00:00",
+        "actual_price": 72202.36,
+        "lower_bound": 71273.38359419654,
+        "upper_bound": 72459.67418780894,
+        "volatility": 0.0027171683596395385
+    },
+    {
+        "timestamp": "2026-04-13 17:00:00",
+        "actual_price": 72148.87,
+        "lower_bound": 71617.43843223715,
+        "upper_bound": 72830.74887853423,
+        "volatility": 0.0027348348691457625
+    },
+    {
+        "timestamp": "2026-04-13 18:00:00",
+        "actual_price": 72424.86,
+        "lower_bound": 71531.50114302598,
+        "upper_bound": 72790.66645073287,
+        "volatility": 0.0027338923174019497
+    },
+    {
+        "timestamp": "2026-04-13 19:00:00",
+        "actual_price": 73322.82,
+        "lower_bound": 71650.2596565485,
+        "upper_bound": 73185.75107104394,
+        "volatility": 0.0024201222952398883
+    },
+    {
+        "timestamp": "2026-04-13 20:00:00",
+        "actual_price": 73149.36,
+        "lower_bound": 72534.54255821252,
+        "upper_bound": 74085.55397207286,
+        "volatility": 0.00242672744347517
+    },
+    {
+        "timestamp": "2026-04-13 21:00:00",
+        "actual_price": 73179.71,
+        "lower_bound": 72521.38524859551,
+        "upper_bound": 73783.84581833308,
+        "volatility": 0.0027431060105318353
+    },
+    {
+        "timestamp": "2026-04-13 22:00:00",
+        "actual_price": 74627.04,
+        "lower_bound": 72558.22889664677,
+        "upper_bound": 73798.44048537707,
+        "volatility": 0.0027414941760569326
+    },
+    {
+        "timestamp": "2026-04-13 23:00:00",
+        "actual_price": 74417.99,
+        "lower_bound": 73853.07812138682,
+        "upper_bound": 75391.2485980904,
+        "volatility": 0.0024397009156354853
+    },
+    {
+        "timestamp": "2026-04-14 00:00:00",
+        "actual_price": 74163.82,
+        "lower_bound": 73782.86893677925,
+        "upper_bound": 75091.78085712194,
+        "volatility": 0.0027357453010548585
+    },
+    {
+        "timestamp": "2026-04-14 01:00:00",
+        "actual_price": 74386.02,
+        "lower_bound": 73437.02393944786,
+        "upper_bound": 74915.61580999821,
+        "volatility": 0.0024475401545794064
+    },
+    {
+        "timestamp": "2026-04-14 02:00:00",
+        "actual_price": 74330.98,
+        "lower_bound": 73724.36875091153,
+        "upper_bound": 75034.6972915377,
+        "volatility": 0.002743944370105387
+    },
+    {
+        "timestamp": "2026-04-14 03:00:00",
+        "actual_price": 74444.43,
+        "lower_bound": 73700.45309702132,
+        "upper_bound": 74977.23481227377,
+        "volatility": 0.0027288896347714827
+    },
+    {
+        "timestamp": "2026-04-14 04:00:00",
+        "actual_price": 74387.85,
+        "lower_bound": 73721.84869153869,
+        "upper_bound": 75244.72089187705,
+        "volatility": 0.0024216138943813294
+    },
+    {
+        "timestamp": "2026-04-14 05:00:00",
+        "actual_price": 74210.11,
+        "lower_bound": 73723.71491936887,
+        "upper_bound": 75045.58684005377,
+        "volatility": 0.0026955435564320197
+    },
+    {
+        "timestamp": "2026-04-14 06:00:00",
+        "actual_price": 74522.73,
+        "lower_bound": 73544.5216752378,
+        "upper_bound": 74849.40991500937,
+        "volatility": 0.002704195417754085
+    },
+    {
+        "timestamp": "2026-04-14 07:00:00",
+        "actual_price": 74546.0,
+        "lower_bound": 73760.52452279304,
+        "upper_bound": 75339.12855227616,
+        "volatility": 0.0024237047470739197
+    },
+    {
+        "timestamp": "2026-04-14 08:00:00",
+        "actual_price": 74750.0,
+        "lower_bound": 73777.75519470024,
+        "upper_bound": 75329.41678929384,
+        "volatility": 0.0024148915587915553
+    },
+    {
+        "timestamp": "2026-04-14 09:00:00",
+        "actual_price": 74500.0,
+        "lower_bound": 74006.72191040551,
+        "upper_bound": 75486.15048044479,
+        "volatility": 0.002448319138097956
+    },
+    {
+        "timestamp": "2026-04-14 10:00:00",
+        "actual_price": 74350.01,
+        "lower_bound": 73745.43713357202,
+        "upper_bound": 75222.85648014945,
+        "volatility": 0.002448589740558122
+    },
+    {
+        "timestamp": "2026-04-14 11:00:00",
+        "actual_price": 74376.52,
+        "lower_bound": 73725.00766396358,
+        "upper_bound": 74996.67138372402,
+        "volatility": 0.0027119964900397687
+    },
+    {
+        "timestamp": "2026-04-14 12:00:00",
+        "actual_price": 74452.0,
+        "lower_bound": 73665.09553513881,
+        "upper_bound": 75146.61828160688,
+        "volatility": 0.0024401196131136884
+    },
+    {
+        "timestamp": "2026-04-14 13:00:00",
+        "actual_price": 75525.94,
+        "lower_bound": 73834.01301868638,
+        "upper_bound": 75087.46621151529,
+        "volatility": 0.0026787268266804296
+    },
+    {
+        "timestamp": "2026-04-14 14:00:00",
+        "actual_price": 75013.62,
+        "lower_bound": 74751.08438721385,
+        "upper_bound": 76254.7785384466,
+        "volatility": 0.0024404117555649326
+    },
+    {
+        "timestamp": "2026-04-14 15:00:00",
+        "actual_price": 75317.07,
+        "lower_bound": 74267.26948191557,
+        "upper_bound": 75783.34309939516,
+        "volatility": 0.0024545124547053227
+    },
+    {
+        "timestamp": "2026-04-14 16:00:00",
+        "actual_price": 74652.2,
+        "lower_bound": 74563.77997840264,
+        "upper_bound": 76084.2444174555,
+        "volatility": 0.0024482441998836552
+    },
+    {
+        "timestamp": "2026-04-14 17:00:00",
+        "actual_price": 74748.9,
+        "lower_bound": 74017.41590720101,
+        "upper_bound": 75313.50204850137,
+        "volatility": 0.0026983846418151
+    },
+    {
+        "timestamp": "2026-04-14 18:00:00",
+        "actual_price": 74093.19,
+        "lower_bound": 74104.01578070085,
+        "upper_bound": 75426.5276528162,
+        "volatility": 0.00270117115219571
+    },
+    {
+        "timestamp": "2026-04-14 19:00:00",
+        "actual_price": 74223.18,
+        "lower_bound": 73467.07554816396,
+        "upper_bound": 74734.78653482962,
+        "volatility": 0.002705325187414897
+    },
+    {
+        "timestamp": "2026-04-14 20:00:00",
+        "actual_price": 74102.29,
+        "lower_bound": 73466.3469334231,
+        "upper_bound": 74962.07945334922,
+        "volatility": 0.0024153555128591346
+    },
+    {
+        "timestamp": "2026-04-14 21:00:00",
+        "actual_price": 74277.15,
+        "lower_bound": 73362.63803319969,
+        "upper_bound": 74901.60279040987,
+        "volatility": 0.0024127410802584916
+    },
+    {
+        "timestamp": "2026-04-14 22:00:00",
+        "actual_price": 74023.15,
+        "lower_bound": 73535.6661748815,
+        "upper_bound": 75048.45968227954,
+        "volatility": 0.0024112688042652146
+    },
+    {
+        "timestamp": "2026-04-14 23:00:00",
+        "actual_price": 74131.55,
+        "lower_bound": 73394.6025844307,
+        "upper_bound": 74676.92449663131,
+        "volatility": 0.0026951714156357564
+    },
+    {
+        "timestamp": "2026-04-15 00:00:00",
+        "actual_price": 74568.36,
+        "lower_bound": 73467.48226104933,
+        "upper_bound": 74777.27908994915,
+        "volatility": 0.0026836391652969916
+    },
+    {
+        "timestamp": "2026-04-15 01:00:00",
+        "actual_price": 74613.28,
+        "lower_bound": 73939.11329782376,
+        "upper_bound": 75258.10047551722,
+        "volatility": 0.0026975460084607368
+    },
+    {
+        "timestamp": "2026-04-15 02:00:00",
+        "actual_price": 74322.0,
+        "lower_bound": 73978.51568817602,
+        "upper_bound": 75295.97287126309,
+        "volatility": 0.002691650271007865
+    },
+    {
+        "timestamp": "2026-04-15 03:00:00",
+        "actual_price": 74345.97,
+        "lower_bound": 73670.24234100911,
+        "upper_bound": 75016.14274640437,
+        "volatility": 0.0027070285425988203
+    },
+    {
+        "timestamp": "2026-04-15 04:00:00",
+        "actual_price": 74340.38,
+        "lower_bound": 73556.90097591856,
+        "upper_bound": 75101.27064987541,
+        "volatility": 0.002413032714504481
+    },
+    {
+        "timestamp": "2026-04-15 05:00:00",
+        "actual_price": 74021.5,
+        "lower_bound": 73606.06718197688,
+        "upper_bound": 75118.66082072433,
+        "volatility": 0.0024111773050695157
+    },
+    {
+        "timestamp": "2026-04-15 06:00:00",
+        "actual_price": 73891.62,
+        "lower_bound": 73400.57041105207,
+        "upper_bound": 74654.10880204669,
+        "volatility": 0.0026951408374612483
+    },
+    {
+        "timestamp": "2026-04-15 07:00:00",
+        "actual_price": 73730.43,
+        "lower_bound": 73282.94510037803,
+        "upper_bound": 74551.26007910477,
+        "volatility": 0.002691278053580857
+    },
+    {
+        "timestamp": "2026-04-15 08:00:00",
+        "actual_price": 74110.51,
+        "lower_bound": 73104.59154858359,
+        "upper_bound": 74368.23310917284,
+        "volatility": 0.002699467303622815
+    },
+    {
+        "timestamp": "2026-04-15 09:00:00",
+        "actual_price": 74011.69,
+        "lower_bound": 73448.67873078122,
+        "upper_bound": 74746.28414420881,
+        "volatility": 0.002713593974189422
+    },
+    {
+        "timestamp": "2026-04-15 10:00:00",
+        "actual_price": 73864.75,
+        "lower_bound": 73383.3964211655,
+        "upper_bound": 74672.43341993619,
+        "volatility": 0.0026973615329795764
+    },
+    {
+        "timestamp": "2026-04-15 11:00:00",
+        "actual_price": 74201.78,
+        "lower_bound": 73208.83654726687,
+        "upper_bound": 74528.06060903415,
+        "volatility": 0.0026837877163874225
+    },
+    {
+        "timestamp": "2026-04-15 12:00:00",
+        "actual_price": 74273.77,
+        "lower_bound": 73569.85495543659,
+        "upper_bound": 74858.88826691895,
+        "volatility": 0.00268158178677684
+    },
+    {
+        "timestamp": "2026-04-15 13:00:00",
+        "actual_price": 74063.92,
+        "lower_bound": 73632.46617341445,
+        "upper_bound": 74936.52148432672,
+        "volatility": 0.0026633261656252806
+    },
+    {
+        "timestamp": "2026-04-15 14:00:00",
+        "actual_price": 74151.81,
+        "lower_bound": 73419.24567108972,
+        "upper_bound": 74718.46835485719,
+        "volatility": 0.0026751557151043627
+    },
+    {
+        "timestamp": "2026-04-15 15:00:00",
+        "actual_price": 73844.08,
+        "lower_bound": 73488.28010296187,
+        "upper_bound": 74851.1313379836,
+        "volatility": 0.0026758419912850245
+    },
+    {
+        "timestamp": "2026-04-15 16:00:00",
+        "actual_price": 73941.09,
+        "lower_bound": 73236.04738945971,
+        "upper_bound": 74500.32149120215,
+        "volatility": 0.002687667098828962
+    },
+    {
+        "timestamp": "2026-04-15 17:00:00",
+        "actual_price": 74134.95,
+        "lower_bound": 73288.24309806192,
+        "upper_bound": 74607.44772651217,
+        "volatility": 0.002690870958158855
+    },
+    {
+        "timestamp": "2026-04-15 18:00:00",
+        "actual_price": 74390.29,
+        "lower_bound": 73531.61702908849,
+        "upper_bound": 74789.70778506306,
+        "volatility": 0.0026821095011372127
+    },
+    {
+        "timestamp": "2026-04-15 19:00:00",
+        "actual_price": 75002.6,
+        "lower_bound": 73766.09877217025,
+        "upper_bound": 75035.1628086712,
+        "volatility": 0.0026965235277190986
+    },
+    {
+        "timestamp": "2026-04-15 20:00:00",
+        "actual_price": 74841.68,
+        "lower_bound": 74247.85922013641,
+        "upper_bound": 75802.46445922859,
+        "volatility": 0.002430656689986349
+    },
+    {
+        "timestamp": "2026-04-15 21:00:00",
+        "actual_price": 74743.1,
+        "lower_bound": 74036.42567539657,
+        "upper_bound": 75662.28849084958,
+        "volatility": 0.0024355103989751195
+    },
+    {
+        "timestamp": "2026-04-15 22:00:00",
+        "actual_price": 74964.0,
+        "lower_bound": 74076.97140801015,
+        "upper_bound": 75397.50266772123,
+        "volatility": 0.002707007960653153
+    },
+    {
+        "timestamp": "2026-04-15 23:00:00",
+        "actual_price": 74809.99,
+        "lower_bound": 74189.89145616123,
+        "upper_bound": 75791.96266366463,
+        "volatility": 0.00243177105185599
+    },
+    {
+        "timestamp": "2026-04-16 00:00:00",
+        "actual_price": 74815.1,
+        "lower_bound": 74064.91343915855,
+        "upper_bound": 75632.61887236043,
+        "volatility": 0.0024317762862091537
+    },
+    {
+        "timestamp": "2026-04-16 01:00:00",
+        "actual_price": 74657.66,
+        "lower_bound": 74045.7976182035,
+        "upper_bound": 75577.82921568138,
+        "volatility": 0.0024591766331558216
+    },
+    {
+        "timestamp": "2026-04-16 02:00:00",
+        "actual_price": 74887.24,
+        "lower_bound": 74000.26767667636,
+        "upper_bound": 75315.13689883146,
+        "volatility": 0.002709209855962416
+    },
+    {
+        "timestamp": "2026-04-16 03:00:00",
+        "actual_price": 74888.21,
+        "lower_bound": 74145.03568537063,
+        "upper_bound": 75639.46203538396,
+        "volatility": 0.002470722989551869
+    },
+    {
+        "timestamp": "2026-04-16 04:00:00",
+        "actual_price": 74944.15,
+        "lower_bound": 74098.64001502424,
+        "upper_bound": 75606.48730047146,
+        "volatility": 0.0024689973396826554
+    },
+    {
+        "timestamp": "2026-04-16 05:00:00",
+        "actual_price": 75043.48,
+        "lower_bound": 74206.3082421933,
+        "upper_bound": 75698.25802583928,
+        "volatility": 0.0024542172200582493
+    },
+    {
+        "timestamp": "2026-04-16 06:00:00",
+        "actual_price": 75045.01,
+        "lower_bound": 74303.16176609871,
+        "upper_bound": 75782.0062514105,
+        "volatility": 0.0024545384480778743
+    },
+    {
+        "timestamp": "2026-04-16 07:00:00",
+        "actual_price": 74707.03,
+        "lower_bound": 74300.68245095752,
+        "upper_bound": 75784.5107943999,
+        "volatility": 0.0024443128176554556
+    },
+    {
+        "timestamp": "2026-04-16 08:00:00",
+        "actual_price": 74677.91,
+        "lower_bound": 73963.96807911675,
+        "upper_bound": 75439.59950413308,
+        "volatility": 0.0024524778838718765
+    },
+    {
+        "timestamp": "2026-04-16 09:00:00",
+        "actual_price": 74594.02,
+        "lower_bound": 74039.45361993034,
+        "upper_bound": 75338.45003682132,
+        "volatility": 0.0026857781227065712
+    },
+    {
+        "timestamp": "2026-04-16 10:00:00",
+        "actual_price": 74313.0,
+        "lower_bound": 73972.43643121675,
+        "upper_bound": 75286.15155037008,
+        "volatility": 0.0026790749986904255
+    },
+    {
+        "timestamp": "2026-04-16 11:00:00",
+        "actual_price": 74574.79,
+        "lower_bound": 73603.97376383889,
+        "upper_bound": 75080.65741881456,
+        "volatility": 0.002438754431461286
+    },
+    {
+        "timestamp": "2026-04-16 12:00:00",
+        "actual_price": 74624.0,
+        "lower_bound": 73870.92654410136,
+        "upper_bound": 75355.7727957666,
+        "volatility": 0.002440604010533478
+    },
+    {
+        "timestamp": "2026-04-16 13:00:00",
+        "actual_price": 73788.03,
+        "lower_bound": 73984.47700371066,
+        "upper_bound": 75248.13784031599,
+        "volatility": 0.002662250591377556
+    },
+    {
+        "timestamp": "2026-04-16 14:00:00",
+        "actual_price": 73973.33,
+        "lower_bound": 73071.31634901713,
+        "upper_bound": 74512.76514539288,
+        "volatility": 0.002442380629939008
+    },
+    {
+        "timestamp": "2026-04-16 15:00:00",
+        "actual_price": 74697.19,
+        "lower_bound": 73362.73846933135,
+        "upper_bound": 74633.59724734961,
+        "volatility": 0.002684551753145
+    },
+    {
+        "timestamp": "2026-04-16 16:00:00",
+        "actual_price": 74175.57,
+        "lower_bound": 73967.07997452877,
+        "upper_bound": 75435.7718648054,
+        "volatility": 0.0024491837400602515
+    },
+    {
+        "timestamp": "2026-04-16 17:00:00",
+        "actual_price": 74343.25,
+        "lower_bound": 73454.60489198322,
+        "upper_bound": 74914.65203588996,
+        "volatility": 0.002461677344888625
+    },
+    {
+        "timestamp": "2026-04-16 18:00:00",
+        "actual_price": 75026.71,
+        "lower_bound": 73607.67310583433,
+        "upper_bound": 75108.91861909404,
+        "volatility": 0.002464851214825043
+    },
+    {
+        "timestamp": "2026-04-16 19:00:00",
+        "actual_price": 75342.99,
+        "lower_bound": 74274.84472506116,
+        "upper_bound": 75786.2455750233,
+        "volatility": 0.0024775068280857935
+    },
+    {
+        "timestamp": "2026-04-16 20:00:00",
+        "actual_price": 75223.47,
+        "lower_bound": 74555.49143382067,
+        "upper_bound": 76184.9663144134,
+        "volatility": 0.0024861344144173174
+    },
+    {
+        "timestamp": "2026-04-16 21:00:00",
+        "actual_price": 74934.24,
+        "lower_bound": 74448.51772653362,
+        "upper_bound": 76008.56740456377,
+        "volatility": 0.0024815380272293994
+    },
+    {
+        "timestamp": "2026-04-16 22:00:00",
+        "actual_price": 74867.92,
+        "lower_bound": 74157.85302473544,
+        "upper_bound": 75722.2698349051,
+        "volatility": 0.002486597086993545
+    },
+    {
+        "timestamp": "2026-04-16 23:00:00",
+        "actual_price": 75154.29,
+        "lower_bound": 74111.24110704138,
+        "upper_bound": 75639.256412295,
+        "volatility": 0.0024830838301659565
+    },
+    {
+        "timestamp": "2026-04-17 00:00:00",
+        "actual_price": 74944.98,
+        "lower_bound": 74391.42817120698,
+        "upper_bound": 75897.74405031592,
+        "volatility": 0.002482804707566134
+    },
+    {
+        "timestamp": "2026-04-17 01:00:00",
+        "actual_price": 74750.0,
+        "lower_bound": 74186.92103526354,
+        "upper_bound": 75740.30611821904,
+        "volatility": 0.002491476397318582
+    },
+    {
+        "timestamp": "2026-04-17 02:00:00",
+        "actual_price": 74700.0,
+        "lower_bound": 73980.0129375995,
+        "upper_bound": 75485.0533124321,
+        "volatility": 0.0024993226224431188
+    },
+    {
+        "timestamp": "2026-04-17 03:00:00",
+        "actual_price": 74615.82,
+        "lower_bound": 73977.60040315376,
+        "upper_bound": 75518.06981052006,
+        "volatility": 0.0024958019958256483
+    },
+    {
+        "timestamp": "2026-04-17 04:00:00",
+        "actual_price": 74791.39,
+        "lower_bound": 73782.64490779435,
+        "upper_bound": 75398.64106675383,
+        "volatility": 0.0024818620241835168
+    },
+    {
+        "timestamp": "2026-04-17 05:00:00",
+        "actual_price": 74637.77,
+        "lower_bound": 74042.57388569046,
+        "upper_bound": 75591.87636435454,
+        "volatility": 0.0024762009551929772
+    },
+    {
+        "timestamp": "2026-04-17 06:00:00",
+        "actual_price": 74938.52,
+        "lower_bound": 73912.74510371366,
+        "upper_bound": 75436.63117241072,
+        "volatility": 0.0024651965396449383
+    },
+    {
+        "timestamp": "2026-04-17 07:00:00",
+        "actual_price": 75074.77,
+        "lower_bound": 74314.03690381184,
+        "upper_bound": 75611.83933612918,
+        "volatility": 0.0027442373671002444
+    },
+    {
+        "timestamp": "2026-04-17 08:00:00",
+        "actual_price": 75780.38,
+        "lower_bound": 74293.28421782173,
+        "upper_bound": 75860.90406157446,
+        "volatility": 0.0024673102446823303
+    },
+    {
+        "timestamp": "2026-04-17 09:00:00",
+        "actual_price": 75779.99,
+        "lower_bound": 75024.39449514764,
+        "upper_bound": 76567.74531140871,
+        "volatility": 0.002466880115742457
+    },
+    {
+        "timestamp": "2026-04-17 10:00:00",
+        "actual_price": 75278.77,
+        "lower_bound": 74994.10185557447,
+        "upper_bound": 76572.97559943379,
+        "volatility": 0.0024672135587801808
+    },
+    {
+        "timestamp": "2026-04-17 11:00:00",
+        "actual_price": 75589.7,
+        "lower_bound": 74516.0855742848,
+        "upper_bound": 76069.97451393296,
+        "volatility": 0.0024786880275867304
+    },
+    {
+        "timestamp": "2026-04-17 12:00:00",
+        "actual_price": 76233.05,
+        "lower_bound": 74805.2137096021,
+        "upper_bound": 76377.08679859438,
+        "volatility": 0.002481910156059435
+    },
+    {
+        "timestamp": "2026-04-17 13:00:00",
+        "actual_price": 77340.12,
+        "lower_bound": 75486.79026887602,
+        "upper_bound": 77044.34771057383,
+        "volatility": 0.0024822773376276764
+    },
+    {
+        "timestamp": "2026-04-17 14:00:00",
+        "actual_price": 77886.77,
+        "lower_bound": 76554.40245908253,
+        "upper_bound": 78186.30650692734,
+        "volatility": 0.0024917675770610125
+    },
+    {
+        "timestamp": "2026-04-17 15:00:00",
+        "actual_price": 77785.02,
+        "lower_bound": 77063.03276120366,
+        "upper_bound": 78724.03416404214,
+        "volatility": 0.00249883165838563
+    },
+    {
+        "timestamp": "2026-04-17 16:00:00",
+        "actual_price": 77857.14,
+        "lower_bound": 77025.72017237707,
+        "upper_bound": 78569.53023057623,
+        "volatility": 0.002501577124528641
+    },
+    {
+        "timestamp": "2026-04-17 17:00:00",
+        "actual_price": 77520.59,
+        "lower_bound": 77040.66634060729,
+        "upper_bound": 78589.6060479898,
+        "volatility": 0.002501254750533616
+    },
+    {
+        "timestamp": "2026-04-17 18:00:00",
+        "actual_price": 77159.89,
+        "lower_bound": 76723.33302470112,
+        "upper_bound": 78429.91204418904,
+        "volatility": 0.002510837148949346
+    },
+    {
+        "timestamp": "2026-04-17 19:00:00",
+        "actual_price": 77393.58,
+        "lower_bound": 76362.16810171033,
+        "upper_bound": 77971.84337213398,
+        "volatility": 0.0025119433138074544
+    },
+    {
+        "timestamp": "2026-04-17 20:00:00",
+        "actual_price": 77337.64,
+        "lower_bound": 76593.39818904326,
+        "upper_bound": 78211.45163053565,
+        "volatility": 0.002518175257548748
+    },
+    {
+        "timestamp": "2026-04-17 21:00:00",
+        "actual_price": 77445.73,
+        "lower_bound": 76519.6507223712,
+        "upper_bound": 78121.39651694335,
+        "volatility": 0.0025082065056590986
+    },
+    {
+        "timestamp": "2026-04-17 22:00:00",
+        "actual_price": 77301.25,
+        "lower_bound": 76680.8158306436,
+        "upper_bound": 78258.86942864892,
+        "volatility": 0.002503950928910359
+    },
+    {
+        "timestamp": "2026-04-17 23:00:00",
+        "actual_price": 77072.0,
+        "lower_bound": 76625.54094856569,
+        "upper_bound": 77975.13441203325,
+        "volatility": 0.0027796533741804496
+    },
+    {
+        "timestamp": "2026-04-18 00:00:00",
+        "actual_price": 77168.0,
+        "lower_bound": 76296.55483879533,
+        "upper_bound": 77904.99223486026,
+        "volatility": 0.002512769248280582
+    },
+    {
+        "timestamp": "2026-04-18 01:00:00",
+        "actual_price": 77218.07,
+        "lower_bound": 76542.78430824241,
+        "upper_bound": 77862.19408948258,
+        "volatility": 0.0027931827332585367
+    },
+    {
+        "timestamp": "2026-04-18 02:00:00",
+        "actual_price": 77292.52,
+        "lower_bound": 76383.32252832744,
+        "upper_bound": 78055.89306292102,
+        "volatility": 0.002513643846500188
+    },
+    {
+        "timestamp": "2026-04-18 03:00:00",
+        "actual_price": 77005.47,
+        "lower_bound": 76514.03196281973,
+        "upper_bound": 78096.67628006681,
+        "volatility": 0.00250876925353395
+    },
+    {
+        "timestamp": "2026-04-18 04:00:00",
+        "actual_price": 77100.74,
+        "lower_bound": 76187.63269768002,
+        "upper_bound": 77802.24562932247,
+        "volatility": 0.0025130630073705498
+    },
+    {
+        "timestamp": "2026-04-18 05:00:00",
+        "actual_price": 77134.66,
+        "lower_bound": 76296.75903384524,
+        "upper_bound": 77899.14796210016,
+        "volatility": 0.002510137873105615
+    },
+    {
+        "timestamp": "2026-04-18 06:00:00",
+        "actual_price": 77136.01,
+        "lower_bound": 76374.0300359091,
+        "upper_bound": 77963.4238412309,
+        "volatility": 0.0025066200357547145
+    },
+    {
+        "timestamp": "2026-04-18 07:00:00",
+        "actual_price": 76997.8,
+        "lower_bound": 76377.84688390323,
+        "upper_bound": 77945.69581116592,
+        "volatility": 0.0025051862291911218
+    },
+    {
+        "timestamp": "2026-04-18 08:00:00",
+        "actual_price": 76738.63,
+        "lower_bound": 76338.7634963236,
+        "upper_bound": 77668.61383749661,
+        "volatility": 0.0027815532388396225
+    },
+    {
+        "timestamp": "2026-04-18 09:00:00",
+        "actual_price": 76599.89,
+        "lower_bound": 75929.41343138153,
+        "upper_bound": 77551.69648614332,
+        "volatility": 0.0025053196024621876
+    },
+    {
+        "timestamp": "2026-04-18 10:00:00",
+        "actual_price": 76189.56,
+        "lower_bound": 75913.48058639772,
+        "upper_bound": 77270.31639746434,
+        "volatility": 0.0027768015979951965
+    },
+    {
+        "timestamp": "2026-04-18 11:00:00",
+        "actual_price": 76039.05,
+        "lower_bound": 75384.90919556176,
+        "upper_bound": 76922.08724746744,
+        "volatility": 0.002511725186357013
+    },
+    {
+        "timestamp": "2026-04-18 12:00:00",
+        "actual_price": 76206.97,
+        "lower_bound": 75252.95776767147,
+        "upper_bound": 76851.02760672482,
+        "volatility": 0.002514088413953862
+    },
+    {
+        "timestamp": "2026-04-18 13:00:00",
+        "actual_price": 76122.87,
+        "lower_bound": 75569.95312667896,
+        "upper_bound": 76881.89755089658,
+        "volatility": 0.0027877502864329055
+    },
+    {
+        "timestamp": "2026-04-18 14:00:00",
+        "actual_price": 76249.99,
+        "lower_bound": 75489.95975481387,
+        "upper_bound": 76809.72013120783,
+        "volatility": 0.0027891356990212245
+    },
+    {
+        "timestamp": "2026-04-18 15:00:00",
+        "actual_price": 76167.34,
+        "lower_bound": 75486.09469049801,
+        "upper_bound": 77087.77041004664,
+        "volatility": 0.0025192010070407287
+    },
+    {
+        "timestamp": "2026-04-18 16:00:00",
+        "actual_price": 75943.35,
+        "lower_bound": 75365.01353931137,
+        "upper_bound": 76957.56959143518,
+        "volatility": 0.0025216637678719834
+    },
+    {
+        "timestamp": "2026-04-18 17:00:00",
+        "actual_price": 75828.51,
+        "lower_bound": 75162.89506139568,
+        "upper_bound": 76748.98821876291,
+        "volatility": 0.002520444193391096
+    },
+    {
+        "timestamp": "2026-04-18 18:00:00",
+        "actual_price": 75651.78,
+        "lower_bound": 75023.2428171198,
+        "upper_bound": 76648.49371467784,
+        "volatility": 0.0025238559957795966
+    },
+    {
+        "timestamp": "2026-04-18 19:00:00",
+        "actual_price": 75649.85,
+        "lower_bound": 74847.42360543397,
+        "upper_bound": 76484.05163239008,
+        "volatility": 0.0025161989039659783
+    },
+    {
+        "timestamp": "2026-04-18 20:00:00",
+        "actual_price": 75754.78,
+        "lower_bound": 74874.95098914679,
+        "upper_bound": 76408.43994039316,
+        "volatility": 0.002513912096085701
+    },
+    {
+        "timestamp": "2026-04-18 21:00:00",
+        "actual_price": 75821.34,
+        "lower_bound": 74974.32151403565,
+        "upper_bound": 76505.82838024992,
+        "volatility": 0.002514251933988098
+    },
+    {
+        "timestamp": "2026-04-18 22:00:00",
+        "actual_price": 75813.53,
+        "lower_bound": 75051.34384064695,
+        "upper_bound": 76566.17483913962,
+        "volatility": 0.002506296121134276
+    },
+    {
+        "timestamp": "2026-04-18 23:00:00",
+        "actual_price": 75691.76,
+        "lower_bound": 75180.64139235245,
+        "upper_bound": 76462.84364472504,
+        "volatility": 0.002763619276946773
+    },
+    {
+        "timestamp": "2026-04-19 00:00:00",
+        "actual_price": 75693.01,
+        "lower_bound": 75040.91558379713,
+        "upper_bound": 76376.70736215689,
+        "volatility": 0.002757912950319356
+    },
+    {
+        "timestamp": "2026-04-19 01:00:00",
+        "actual_price": 75621.95,
+        "lower_bound": 75086.23219776557,
+        "upper_bound": 76382.33757080307,
+        "volatility": 0.0027574128583959857
+    },
+    {
+        "timestamp": "2026-04-19 02:00:00",
+        "actual_price": 75496.0,
+        "lower_bound": 74832.99186434968,
+        "upper_bound": 76383.28637847559,
+        "volatility": 0.0025021463823139325
+    },
+    {
+        "timestamp": "2026-04-19 03:00:00",
+        "actual_price": 75515.77,
+        "lower_bound": 74723.91533081899,
+        "upper_bound": 76233.23284677448,
+        "volatility": 0.0025044784868737415
+    },
+    {
+        "timestamp": "2026-04-19 04:00:00",
+        "actual_price": 75664.62,
+        "lower_bound": 74748.67653459802,
+        "upper_bound": 76259.17854642881,
+        "volatility": 0.0025043298459966057
+    },
+    {
+        "timestamp": "2026-04-19 05:00:00",
+        "actual_price": 75545.6,
+        "lower_bound": 75020.66203104274,
+        "upper_bound": 76325.83019367352,
+        "volatility": 0.002763605522868677
+    },
+    {
+        "timestamp": "2026-04-19 06:00:00",
+        "actual_price": 75400.09,
+        "lower_bound": 74788.73187184808,
+        "upper_bound": 76319.63066772571,
+        "volatility": 0.002502765081605429
+    },
+    {
+        "timestamp": "2026-04-19 07:00:00",
+        "actual_price": 75252.34,
+        "lower_bound": 74767.93662844515,
+        "upper_bound": 76069.62168657088,
+        "volatility": 0.002748608985506651
+    },
+    {
+        "timestamp": "2026-04-19 08:00:00",
+        "actual_price": 75257.6,
+        "lower_bound": 74492.14808189805,
+        "upper_bound": 76022.20415026549,
+        "volatility": 0.0025027048861439565
+    },
+    {
+        "timestamp": "2026-04-19 09:00:00",
+        "actual_price": 75015.0,
+        "lower_bound": 74503.49359512648,
+        "upper_bound": 76036.9695471114,
+        "volatility": 0.0024911198776980358
+    },
+    {
+        "timestamp": "2026-04-19 10:00:00",
+        "actual_price": 75222.45,
+        "lower_bound": 74266.25490166308,
+        "upper_bound": 75792.39861170723,
+        "volatility": 0.002500888982326117
+    },
+    {
+        "timestamp": "2026-04-19 11:00:00",
+        "actual_price": 75604.11,
+        "lower_bound": 74466.76163643843,
+        "upper_bound": 76006.81860295228,
+        "volatility": 0.0025045018214698367
+    },
+    {
+        "timestamp": "2026-04-19 12:00:00",
+        "actual_price": 75571.6,
+        "lower_bound": 74949.51875098274,
+        "upper_bound": 76280.98443920087,
+        "volatility": 0.0027807695827347144
+    },
+    {
+        "timestamp": "2026-04-19 13:00:00",
+        "actual_price": 75921.75,
+        "lower_bound": 74780.64098219399,
+        "upper_bound": 76329.77813185766,
+        "volatility": 0.002511463491425785
+    },
+    {
+        "timestamp": "2026-04-19 14:00:00",
+        "actual_price": 76024.01,
+        "lower_bound": 75118.27493357046,
+        "upper_bound": 76700.14183342562,
+        "volatility": 0.00252140122789502
+    },
+    {
+        "timestamp": "2026-04-19 15:00:00",
+        "actual_price": 75846.63,
+        "lower_bound": 75378.00685637773,
+        "upper_bound": 76696.29298800931,
+        "volatility": 0.002794420760394908
+    },
+    {
+        "timestamp": "2026-04-19 16:00:00",
+        "actual_price": 75382.86,
+        "lower_bound": 75054.5870983503,
+        "upper_bound": 76615.42075916985,
+        "volatility": 0.0025180707620878623
+    },
+    {
+        "timestamp": "2026-04-19 17:00:00",
+        "actual_price": 74791.26,
+        "lower_bound": 74634.71314494254,
+        "upper_bound": 76136.13112953216,
+        "volatility": 0.0025311952560019926
+    },
+    {
+        "timestamp": "2026-04-19 18:00:00",
+        "actual_price": 74770.11,
+        "lower_bound": 74066.73577728141,
+        "upper_bound": 75532.42709992907,
+        "volatility": 0.002529956324215551
+    },
+    {
+        "timestamp": "2026-04-19 19:00:00",
+        "actual_price": 74965.47,
+        "lower_bound": 74007.8440500484,
+        "upper_bound": 75512.18570813685,
+        "volatility": 0.002526054771723349
+    },
+    {
+        "timestamp": "2026-04-19 20:00:00",
+        "actual_price": 74630.0,
+        "lower_bound": 74193.06608953037,
+        "upper_bound": 75725.40636996068,
+        "volatility": 0.0025222801583791887
+    },
+    {
+        "timestamp": "2026-04-19 21:00:00",
+        "actual_price": 74425.15,
+        "lower_bound": 73869.99207622992,
+        "upper_bound": 75480.53157371438,
+        "volatility": 0.002522779121039714
+    },
+    {
+        "timestamp": "2026-04-19 22:00:00",
+        "actual_price": 74047.34,
+        "lower_bound": 73634.05185418956,
+        "upper_bound": 75156.64565748541,
+        "volatility": 0.0025171429772281196
+    },
+    {
+        "timestamp": "2026-04-19 23:00:00",
+        "actual_price": 73801.79,
+        "lower_bound": 73274.2399764307,
+        "upper_bound": 74780.86725869935,
+        "volatility": 0.002530076412830557
+    },
+    {
+        "timestamp": "2026-04-20 00:00:00",
+        "actual_price": 74280.01,
+        "lower_bound": 73019.28000315877,
+        "upper_bound": 74510.65654568047,
+        "volatility": 0.002526508806927557
+    },
+    {
+        "timestamp": "2026-04-20 01:00:00",
+        "actual_price": 74595.13,
+        "lower_bound": 73499.48204403347,
+        "upper_bound": 75030.82530280096,
+        "volatility": 0.0025349556957978583
+    },
+    {
+        "timestamp": "2026-04-20 02:00:00",
+        "actual_price": 74410.01,
+        "lower_bound": 73784.10357933912,
+        "upper_bound": 75335.02227262952,
+        "volatility": 0.0025366905980911125
+    },
+    {
+        "timestamp": "2026-04-20 03:00:00",
+        "actual_price": 74634.0,
+        "lower_bound": 73626.2348511746,
+        "upper_bound": 75177.67586984445,
+        "volatility": 0.0025331283156625303
+    },
+    {
+        "timestamp": "2026-04-20 04:00:00",
+        "actual_price": 74567.64,
+        "lower_bound": 73871.77469196924,
+        "upper_bound": 75414.01645575739,
+        "volatility": 0.0025393104200299344
+    },
+    {
+        "timestamp": "2026-04-20 05:00:00",
+        "actual_price": 74264.15,
+        "lower_bound": 73850.17556490125,
+        "upper_bound": 75288.48057401225,
+        "volatility": 0.0025337395472449973
+    },
+    {
+        "timestamp": "2026-04-20 06:00:00",
+        "actual_price": 74786.59,
+        "lower_bound": 73516.31382114979,
+        "upper_bound": 75009.08449832725,
+        "volatility": 0.002545034787107853
+    },
+    {
+        "timestamp": "2026-04-20 07:00:00",
+        "actual_price": 74837.17,
+        "lower_bound": 74013.04192813885,
+        "upper_bound": 75531.28445383052,
+        "volatility": 0.002552688359911167
+    },
+    {
+        "timestamp": "2026-04-20 08:00:00",
+        "actual_price": 74728.91,
+        "lower_bound": 74093.0713556765,
+        "upper_bound": 75626.12054805986,
+        "volatility": 0.0025459903085980244
+    },
+    {
+        "timestamp": "2026-04-20 09:00:00",
+        "actual_price": 75062.77,
+        "lower_bound": 73965.69287145973,
+        "upper_bound": 75477.68875306126,
+        "volatility": 0.0025350235163402817
+    },
+    {
+        "timestamp": "2026-04-20 10:00:00",
+        "actual_price": 75027.26,
+        "lower_bound": 74297.25124439513,
+        "upper_bound": 75813.745048046,
+        "volatility": 0.00253626148894125
+    },
+    {
+        "timestamp": "2026-04-20 11:00:00",
+        "actual_price": 75192.71,
+        "lower_bound": 74238.36677159346,
+        "upper_bound": 75831.13300569849,
+        "volatility": 0.002529584241004374
+    },
+    {
+        "timestamp": "2026-04-20 12:00:00",
+        "actual_price": 75289.9,
+        "lower_bound": 74422.99292013668,
+        "upper_bound": 75968.00173305506,
+        "volatility": 0.0025224502660110117
+    },
+    {
+        "timestamp": "2026-04-20 13:00:00",
+        "actual_price": 75269.38,
+        "lower_bound": 74661.1622369073,
+        "upper_bound": 75902.24820385077,
+        "volatility": 0.0027761593990078028
+    },
+    {
+        "timestamp": "2026-04-20 14:00:00",
+        "actual_price": 75034.79,
+        "lower_bound": 74504.21691526574,
+        "upper_bound": 76035.81951995466,
+        "volatility": 0.002500663471249219
+    },
+    {
+        "timestamp": "2026-04-20 15:00:00",
+        "actual_price": 75716.77,
+        "lower_bound": 74306.73294710393,
+        "upper_bound": 75828.21012403755,
+        "volatility": 0.0025060100293601614
+    },
+    {
+        "timestamp": "2026-04-20 16:00:00",
+        "actual_price": 75338.74,
+        "lower_bound": 74961.9497650065,
+        "upper_bound": 76547.83066383019,
+        "volatility": 0.0025189934471525942
+    },
+    {
+        "timestamp": "2026-04-20 17:00:00",
+        "actual_price": 75898.14,
+        "lower_bound": 74587.46917627414,
+        "upper_bound": 76113.08674903137,
+        "volatility": 0.0025277336662923484
+    },
+    {
+        "timestamp": "2026-04-20 18:00:00",
+        "actual_price": 76423.69,
+        "lower_bound": 75154.74385231138,
+        "upper_bound": 76679.25322814837,
+        "volatility": 0.002541276301067129
+    },
+    {
+        "timestamp": "2026-04-20 19:00:00",
+        "actual_price": 76296.96,
+        "lower_bound": 75645.73562028671,
+        "upper_bound": 77241.30133013372,
+        "volatility": 0.002554808049306013
+    },
+    {
+        "timestamp": "2026-04-20 20:00:00",
+        "actual_price": 76276.17,
+        "lower_bound": 75491.05965582129,
+        "upper_bound": 77076.92189767725,
+        "volatility": 0.0025462834655551794
+    },
+    {
+        "timestamp": "2026-04-20 21:00:00",
+        "actual_price": 75954.71,
+        "lower_bound": 75506.84324022869,
+        "upper_bound": 77086.15324369841,
+        "volatility": 0.00253082307514488
+    },
+    {
+        "timestamp": "2026-04-20 22:00:00",
+        "actual_price": 75974.24,
+        "lower_bound": 75203.04169004648,
+        "upper_bound": 76730.15149341914,
+        "volatility": 0.0025428908047392534
+    },
+    {
+        "timestamp": "2026-04-20 23:00:00",
+        "actual_price": 75840.97,
+        "lower_bound": 75220.34151669744,
+        "upper_bound": 76740.93552215763,
+        "volatility": 0.0025324643221790923
+    },
+    {
+        "timestamp": "2026-04-21 00:00:00",
+        "actual_price": 76092.45,
+        "lower_bound": 75082.15377441178,
+        "upper_bound": 76617.33098928657,
+        "volatility": 0.002530270729230991
+    },
+    {
+        "timestamp": "2026-04-21 01:00:00",
+        "actual_price": 75927.59,
+        "lower_bound": 75319.30015991777,
+        "upper_bound": 76867.68835730934,
+        "volatility": 0.0025341299594387216
+    },
+    {
+        "timestamp": "2026-04-21 02:00:00",
+        "actual_price": 75581.33,
+        "lower_bound": 75148.3966570792,
+        "upper_bound": 76721.82631527283,
+        "volatility": 0.00253197460145992
+    },
+    {
+        "timestamp": "2026-04-21 03:00:00",
+        "actual_price": 75710.3,
+        "lower_bound": 74796.29637901131,
+        "upper_bound": 76383.50581768349,
+        "volatility": 0.002539778469989775
+    },
+    {
+        "timestamp": "2026-04-21 04:00:00",
+        "actual_price": 75813.81,
+        "lower_bound": 74940.94299711612,
+        "upper_bound": 76488.61939675624,
+        "volatility": 0.002525684995323705
+    },
+    {
+        "timestamp": "2026-04-21 05:00:00",
+        "actual_price": 75802.0,
+        "lower_bound": 75088.17095719595,
+        "upper_bound": 76567.8392448532,
+        "volatility": 0.002510278489061546
+    },
+    {
+        "timestamp": "2026-04-21 06:00:00",
+        "actual_price": 75974.11,
+        "lower_bound": 75045.71819915938,
+        "upper_bound": 76562.46998520571,
+        "volatility": 0.002502635199754555
+    },
+    {
+        "timestamp": "2026-04-21 07:00:00",
+        "actual_price": 76084.34,
+        "lower_bound": 75200.75232301868,
+        "upper_bound": 76775.41634563364,
+        "volatility": 0.002496257502944925
+    },
+    {
+        "timestamp": "2026-04-21 08:00:00",
+        "actual_price": 76507.21,
+        "lower_bound": 75274.21231002745,
+        "upper_bound": 76828.11346425644,
+        "volatility": 0.002497376345124558
+    },
+    {
+        "timestamp": "2026-04-21 09:00:00",
+        "actual_price": 76362.77,
+        "lower_bound": 75729.90978906325,
+        "upper_bound": 77276.58459752332,
+        "volatility": 0.0024942323983850523
+    },
+    {
+        "timestamp": "2026-04-21 10:00:00",
+        "actual_price": 76746.41,
+        "lower_bound": 75582.58327811217,
+        "upper_bound": 77140.84409444376,
+        "volatility": 0.0024823087895796507
+    },
+    {
+        "timestamp": "2026-04-21 11:00:00",
+        "actual_price": 76452.94,
+        "lower_bound": 75995.5281891034,
+        "upper_bound": 77533.62832248588,
+        "volatility": 0.0024892862472168688
+    },
+    {
+        "timestamp": "2026-04-21 12:00:00",
+        "actual_price": 76009.46,
+        "lower_bound": 75644.41395056859,
+        "upper_bound": 77236.47256033857,
+        "volatility": 0.002484076478149539
+    },
+    {
+        "timestamp": "2026-04-21 13:00:00",
+        "actual_price": 75899.98,
+        "lower_bound": 75243.18369730529,
+        "upper_bound": 76746.83858177194,
+        "volatility": 0.0024926150280812254
+    },
+    {
+        "timestamp": "2026-04-21 14:00:00",
+        "actual_price": 75675.05,
+        "lower_bound": 75148.70243227619,
+        "upper_bound": 76665.91417544495,
+        "volatility": 0.002485124023101069
+    },
+    {
+        "timestamp": "2026-04-21 15:00:00",
+        "actual_price": 75834.65,
+        "lower_bound": 74922.51332121542,
+        "upper_bound": 76393.34085140964,
+        "volatility": 0.0024936915011058453
+    },
+    {
+        "timestamp": "2026-04-21 16:00:00",
+        "actual_price": 75781.18,
+        "lower_bound": 75179.84979084434,
+        "upper_bound": 76461.47910588747,
+        "volatility": 0.002784189591890994
+    },
+    {
+        "timestamp": "2026-04-21 17:00:00",
+        "actual_price": 75545.62,
+        "lower_bound": 74991.81124990982,
+        "upper_bound": 76559.28295122797,
+        "volatility": 0.0024858985609731046
+    },
+    {
+        "timestamp": "2026-04-21 18:00:00",
+        "actual_price": 75610.21,
+        "lower_bound": 74749.88600582448,
+        "upper_bound": 76316.2431867712,
+        "volatility": 0.002491286144666889
+    },
+    {
+        "timestamp": "2026-04-21 19:00:00",
+        "actual_price": 75023.43,
+        "lower_bound": 74979.55535196155,
+        "upper_bound": 76250.12460324113,
+        "volatility": 0.0027898392712559015
+    },
+    {
+        "timestamp": "2026-04-21 20:00:00",
+        "actual_price": 75698.51,
+        "lower_bound": 74296.95775577353,
+        "upper_bound": 75791.50572546528,
+        "volatility": 0.0025050176868949385
+    },
+    {
+        "timestamp": "2026-04-21 21:00:00",
+        "actual_price": 75549.99,
+        "lower_bound": 75081.49861706373,
+        "upper_bound": 76319.98877561394,
+        "volatility": 0.002808653028729937
+    },
+    {
+        "timestamp": "2026-04-21 22:00:00",
+        "actual_price": 75650.04,
+        "lower_bound": 74833.15309107408,
+        "upper_bound": 76313.75786166686,
+        "volatility": 0.002504928066788957
+    },
+    {
+        "timestamp": "2026-04-21 23:00:00",
+        "actual_price": 76336.15,
+        "lower_bound": 74885.60273561148,
+        "upper_bound": 76391.26238959772,
+        "volatility": 0.0024926188403715964
+    },
+    {
+        "timestamp": "2026-04-22 00:00:00",
+        "actual_price": 76370.45,
+        "lower_bound": 75530.03691153917,
+        "upper_bound": 77113.13728879146,
+        "volatility": 0.002503731063127867
+    },
+    {
+        "timestamp": "2026-04-22 01:00:00",
+        "actual_price": 76297.99,
+        "lower_bound": 75737.35515233902,
+        "upper_bound": 77012.2360877354,
+        "volatility": 0.0027971880935611145
+    },
+    {
+        "timestamp": "2026-04-22 02:00:00",
+        "actual_price": 77604.71,
+        "lower_bound": 75530.09098412393,
+        "upper_bound": 77073.15834850223,
+        "volatility": 0.0024865308904159908
+    },
+    {
+        "timestamp": "2026-04-22 03:00:00",
+        "actual_price": 77521.48,
+        "lower_bound": 76802.88396869655,
+        "upper_bound": 78368.69494007996,
+        "volatility": 0.0024886560262677017
+    },
+    {
+        "timestamp": "2026-04-22 04:00:00",
+        "actual_price": 77523.0,
+        "lower_bound": 76885.01973328127,
+        "upper_bound": 78180.80137951553,
+        "volatility": 0.0027622327505505448
+    },
+    {
+        "timestamp": "2026-04-22 05:00:00",
+        "actual_price": 77994.93,
+        "lower_bound": 76863.75104724953,
+        "upper_bound": 78201.1597798475,
+        "volatility": 0.0027619775149271015
+    },
+    {
+        "timestamp": "2026-04-22 06:00:00",
+        "actual_price": 78010.72,
+        "lower_bound": 77355.94134232774,
+        "upper_bound": 78655.89037886132,
+        "volatility": 0.0027821608606527827
+    },
+    {
+        "timestamp": "2026-04-22 07:00:00",
+        "actual_price": 78012.79,
+        "lower_bound": 77253.61805363349,
+        "upper_bound": 78841.40062164245,
+        "volatility": 0.002497671753034149
+    },
+    {
+        "timestamp": "2026-04-22 08:00:00",
+        "actual_price": 78010.92,
+        "lower_bound": 77345.71534702947,
+        "upper_bound": 78686.81113165595,
+        "volatility": 0.0027582470694341127
+    },
+    {
+        "timestamp": "2026-04-22 09:00:00",
+        "actual_price": 78001.95,
+        "lower_bound": 77222.3515453643,
+        "upper_bound": 78806.9678257499,
+        "volatility": 0.002473923365152499
+    },
+    {
+        "timestamp": "2026-04-22 10:00:00",
+        "actual_price": 78157.41,
+        "lower_bound": 77229.73021814726,
+        "upper_bound": 78791.3851890873,
+        "volatility": 0.002460454922662683
+    },
+    {
+        "timestamp": "2026-04-22 11:00:00",
+        "actual_price": 78300.0,
+        "lower_bound": 77382.27618683221,
+        "upper_bound": 78904.53663346634,
+        "volatility": 0.0024531846670541643
+    },
+    {
+        "timestamp": "2026-04-22 12:00:00",
+        "actual_price": 78236.05,
+        "lower_bound": 77483.09294851961,
+        "upper_bound": 79094.19818740219,
+        "volatility": 0.0024532045327178764
+    },
+    {
+        "timestamp": "2026-04-22 13:00:00",
+        "actual_price": 78840.94,
+        "lower_bound": 77446.89887317432,
+        "upper_bound": 78951.9574866284,
+        "volatility": 0.002438522844152525
+    },
+    {
+        "timestamp": "2026-04-22 14:00:00",
+        "actual_price": 79045.75,
+        "lower_bound": 78087.85642439492,
+        "upper_bound": 79661.667484043,
+        "volatility": 0.002445010532717996
+    },
+    {
+        "timestamp": "2026-04-22 15:00:00",
+        "actual_price": 79272.9,
+        "lower_bound": 78307.83488250054,
+        "upper_bound": 79783.93031377335,
+        "volatility": 0.0024483910296983135
+    },
+    {
+        "timestamp": "2026-04-22 16:00:00",
+        "actual_price": 78743.59,
+        "lower_bound": 78599.25650090797,
+        "upper_bound": 79966.67282736901,
+        "volatility": 0.00272125374704775
+    },
+    {
+        "timestamp": "2026-04-22 17:00:00",
+        "actual_price": 78900.0,
+        "lower_bound": 77976.67629718476,
+        "upper_bound": 79556.50484491048,
+        "volatility": 0.0024645717739431687
+    },
+    {
+        "timestamp": "2026-04-22 18:00:00",
+        "actual_price": 79022.39,
+        "lower_bound": 78236.91719148222,
+        "upper_bound": 79580.24886462402,
+        "volatility": 0.002723867360181345
+    },
+    {
+        "timestamp": "2026-04-22 19:00:00",
+        "actual_price": 78846.62,
+        "lower_bound": 78274.260079384,
+        "upper_bound": 79793.90228864427,
+        "volatility": 0.002459923705341681
+    },
+    {
+        "timestamp": "2026-04-22 20:00:00",
+        "actual_price": 78436.68,
+        "lower_bound": 78191.3934702182,
+        "upper_bound": 79503.10303526443,
+        "volatility": 0.0027149665675390584
+    },
+    {
+        "timestamp": "2026-04-22 21:00:00",
+        "actual_price": 78762.69,
+        "lower_bound": 77677.2003664618,
+        "upper_bound": 79241.87879992498,
+        "volatility": 0.0024491190903408707
+    },
+    {
+        "timestamp": "2026-04-22 22:00:00",
+        "actual_price": 78607.95,
+        "lower_bound": 77987.05522323288,
+        "upper_bound": 79540.71487966613,
+        "volatility": 0.002443132461177405
+    },
+    {
+        "timestamp": "2026-04-22 23:00:00",
+        "actual_price": 78178.23,
+        "lower_bound": 77822.15658733284,
+        "upper_bound": 79386.65730049415,
+        "volatility": 0.00243641497759314
+    },
+    {
+        "timestamp": "2026-04-23 00:00:00",
+        "actual_price": 78424.29,
+        "lower_bound": 77440.07965877464,
+        "upper_bound": 78925.57583834953,
+        "volatility": 0.0024400502490896456
+    },
+    {
+        "timestamp": "2026-04-23 01:00:00",
+        "actual_price": 78359.23,
+        "lower_bound": 77682.44612983412,
+        "upper_bound": 79185.8611294076,
+        "volatility": 0.0024380817569393176
+    },
+    {
+        "timestamp": "2026-04-23 02:00:00",
+        "actual_price": 77939.92,
+        "lower_bound": 77502.8881630799,
+        "upper_bound": 79135.38671386929,
+        "volatility": 0.0024375996691578263
+    },
+    {
+        "timestamp": "2026-04-23 03:00:00",
+        "actual_price": 77746.46,
+        "lower_bound": 77306.17602508162,
+        "upper_bound": 78621.21115238195,
+        "volatility": 0.002728219324178778
+    },
+    {
+        "timestamp": "2026-04-23 04:00:00",
+        "actual_price": 77920.09,
+        "lower_bound": 77006.49992490423,
+        "upper_bound": 78549.44185565066,
+        "volatility": 0.002434366463984821
+    },
+    {
+        "timestamp": "2026-04-23 05:00:00",
+        "actual_price": 78033.87,
+        "lower_bound": 77258.89586734836,
+        "upper_bound": 78550.87595189137,
+        "volatility": 0.0027255786169035137
+    },
+    {
+        "timestamp": "2026-04-23 06:00:00",
+        "actual_price": 78211.43,
+        "lower_bound": 77393.1688710965,
+        "upper_bound": 78688.64464683396,
+        "volatility": 0.002729327626219815
+    },
+    {
+        "timestamp": "2026-04-23 07:00:00",
+        "actual_price": 78048.62,
+        "lower_bound": 77436.82987870257,
+        "upper_bound": 78975.48165297064,
+        "volatility": 0.0024346955062731854
+    },
+    {
+        "timestamp": "2026-04-23 08:00:00",
+        "actual_price": 77858.35,
+        "lower_bound": 77305.83813018512,
+        "upper_bound": 78857.01748302672,
+        "volatility": 0.0024331419179165394
+    },
+    {
+        "timestamp": "2026-04-23 09:00:00",
+        "actual_price": 77655.34,
+        "lower_bound": 77210.94788637887,
+        "upper_bound": 78516.49774097663,
+        "volatility": 0.0027160557187129366
+    },
+    {
+        "timestamp": "2026-04-23 10:00:00",
+        "actual_price": 77403.63,
+        "lower_bound": 77053.85189506577,
+        "upper_bound": 78290.97351873029,
+        "volatility": 0.0027073052226833554
+    },
+    {
+        "timestamp": "2026-04-23 11:00:00",
+        "actual_price": 77704.62,
+        "lower_bound": 76772.07068225706,
+        "upper_bound": 78028.7157172552,
+        "volatility": 0.0027198019347481504
+    },
+    {
+        "timestamp": "2026-04-23 12:00:00",
+        "actual_price": 77870.53,
+        "lower_bound": 77074.17079375005,
+        "upper_bound": 78346.31491456258,
+        "volatility": 0.002720836279514749
+    },
+    {
+        "timestamp": "2026-04-23 13:00:00",
+        "actual_price": 77532.23,
+        "lower_bound": 77087.74935647177,
+        "upper_bound": 78644.04960946241,
+        "volatility": 0.002424964029152645
+    },
+    {
+        "timestamp": "2026-04-23 14:00:00",
+        "actual_price": 78180.77,
+        "lower_bound": 76747.4290057028,
+        "upper_bound": 78308.49752068117,
+        "volatility": 0.002426463529586909
+    },
+    {
+        "timestamp": "2026-04-23 15:00:00",
+        "actual_price": 78376.76,
+        "lower_bound": 77419.53750061156,
+        "upper_bound": 78959.86511167273,
+        "volatility": 0.0024403885876000883
+    },
+    {
+        "timestamp": "2026-04-23 16:00:00",
+        "actual_price": 78103.72,
+        "lower_bound": 77748.44328738704,
+        "upper_bound": 79001.80758440618,
+        "volatility": 0.0027352956317279785
+    },
+    {
+        "timestamp": "2026-04-23 17:00:00",
+        "actual_price": 77769.21,
+        "lower_bound": 77356.8066408235,
+        "upper_bound": 78873.40914502185,
+        "volatility": 0.0024543529959225826
+    },
+    {
+        "timestamp": "2026-04-23 18:00:00",
+        "actual_price": 77678.65,
+        "lower_bound": 77116.47548272509,
+        "upper_bound": 78411.6401194355,
+        "volatility": 0.0027640791547386863
+    },
+    {
+        "timestamp": "2026-04-23 19:00:00",
+        "actual_price": 77727.26,
+        "lower_bound": 76937.31626399861,
+        "upper_bound": 78435.11275199229,
+        "volatility": 0.002465474335556395
+    },
+    {
+        "timestamp": "2026-04-23 20:00:00",
+        "actual_price": 77886.97,
+        "lower_bound": 76931.56775629171,
+        "upper_bound": 78474.5546726731,
+        "volatility": 0.0024617479814870386
+    },
+    {
+        "timestamp": "2026-04-23 21:00:00",
+        "actual_price": 77864.83,
+        "lower_bound": 77109.91162836144,
+        "upper_bound": 78681.59415196012,
+        "volatility": 0.0024591043671339232
+    },
+    {
+        "timestamp": "2026-04-23 22:00:00",
+        "actual_price": 78235.3,
+        "lower_bound": 77096.23362941082,
+        "upper_bound": 78710.08232168481,
+        "volatility": 0.002455993270314637
+    },
+    {
+        "timestamp": "2026-04-23 23:00:00",
+        "actual_price": 78257.48,
+        "lower_bound": 77460.04033385568,
+        "upper_bound": 78996.6059458674,
+        "volatility": 0.0024658575334450296
+    },
+    {
+        "timestamp": "2026-04-24 00:00:00",
+        "actual_price": 78417.22,
+        "lower_bound": 77625.59011572326,
+        "upper_bound": 78923.06544849524,
+        "volatility": 0.002772693667466136
+    },
+    {
+        "timestamp": "2026-04-24 01:00:00",
+        "actual_price": 78429.73,
+        "lower_bound": 77645.25468748872,
+        "upper_bound": 79201.02620209592,
+        "volatility": 0.0024692089093656276
+    },
+    {
+        "timestamp": "2026-04-24 02:00:00",
+        "actual_price": 78125.65,
+        "lower_bound": 77779.21945912545,
+        "upper_bound": 79065.86401461158,
+        "volatility": 0.00276785238801545
+    },
+    {
+        "timestamp": "2026-04-24 03:00:00",
+        "actual_price": 77737.85,
+        "lower_bound": 77339.01169658122,
+        "upper_bound": 78895.93288392588,
+        "volatility": 0.0024656627401907615
+    },
+    {
+        "timestamp": "2026-04-24 04:00:00",
+        "actual_price": 77670.0,
+        "lower_bound": 76901.95405877041,
+        "upper_bound": 78481.27392069675,
+        "volatility": 0.002476374641404444
+    },
+    {
+        "timestamp": "2026-04-24 05:00:00",
+        "actual_price": 77953.48,
+        "lower_bound": 76890.19411039366,
+        "upper_bound": 78412.70103475427,
+        "volatility": 0.0024743479444675207
+    },
+    {
+        "timestamp": "2026-04-24 06:00:00",
+        "actual_price": 77789.75,
+        "lower_bound": 77184.79398371413,
+        "upper_bound": 78733.23486505379,
+        "volatility": 0.0024823688778276634
+    },
+    {
+        "timestamp": "2026-04-24 07:00:00",
+        "actual_price": 77644.6,
+        "lower_bound": 77143.02475320497,
+        "upper_bound": 78438.10164494095,
+        "volatility": 0.0027960323596629357
+    },
+    {
+        "timestamp": "2026-04-24 08:00:00",
+        "actual_price": 77785.71,
+        "lower_bound": 76880.96498062897,
+        "upper_bound": 78452.99963960529,
+        "volatility": 0.002476946478317996
+    },
+    {
+        "timestamp": "2026-04-24 09:00:00",
+        "actual_price": 77527.69,
+        "lower_bound": 76963.832820349,
+        "upper_bound": 78593.41451257058,
+        "volatility": 0.0024788867270244715
+    },
+    {
+        "timestamp": "2026-04-24 10:00:00",
+        "actual_price": 77752.36,
+        "lower_bound": 76774.68781815423,
+        "upper_bound": 78328.58283442268,
+        "volatility": 0.002479606199965274
+    },
+    {
+        "timestamp": "2026-04-24 11:00:00",
+        "actual_price": 78240.26,
+        "lower_bound": 76967.55479108993,
+        "upper_bound": 78521.85785778868,
+        "volatility": 0.002482347133953131
+    },
+    {
+        "timestamp": "2026-04-24 12:00:00",
+        "actual_price": 78275.66,
+        "lower_bound": 77443.22067146673,
+        "upper_bound": 79044.94597656424,
+        "volatility": 0.002489254967443142
+    },
+    {
+        "timestamp": "2026-04-24 13:00:00",
+        "actual_price": 78093.79,
+        "lower_bound": 77508.14239362946,
+        "upper_bound": 79078.2784218292,
+        "volatility": 0.0024828381788895015
+    },
+    {
+        "timestamp": "2026-04-24 14:00:00",
+        "actual_price": 78037.64,
+        "lower_bound": 77300.07793637719,
+        "upper_bound": 78830.0158169926,
+        "volatility": 0.002488149102656545
+    },
+    {
+        "timestamp": "2026-04-24 15:00:00",
+        "actual_price": 78038.62,
+        "lower_bound": 77386.62225029881,
+        "upper_bound": 78695.9696124199,
+        "volatility": 0.0028025078689107633
+    },
+    {
+        "timestamp": "2026-04-24 16:00:00",
+        "actual_price": 77777.28,
+        "lower_bound": 77262.83797443374,
+        "upper_bound": 78846.70435468241,
+        "volatility": 0.0024871531877241676
+    },
+    {
+        "timestamp": "2026-04-24 17:00:00",
+        "actual_price": 77681.71,
+        "lower_bound": 77147.5922199016,
+        "upper_bound": 78429.12886671367,
+        "volatility": 0.0028078678823848426
+    },
+    {
+        "timestamp": "2026-04-24 18:00:00",
+        "actual_price": 77618.24,
+        "lower_bound": 76928.46645143344,
+        "upper_bound": 78505.5475238424,
+        "volatility": 0.00249365446838378
+    },
+    {
+        "timestamp": "2026-04-24 19:00:00",
+        "actual_price": 77628.85,
+        "lower_bound": 76817.05011122955,
+        "upper_bound": 78406.49531364159,
+        "volatility": 0.0024937369601316997
+    },
+    {
+        "timestamp": "2026-04-24 20:00:00",
+        "actual_price": 77718.31,
+        "lower_bound": 76967.89116040485,
+        "upper_bound": 78278.31190438503,
+        "volatility": 0.0028052710742505443
+    },
+    {
+        "timestamp": "2026-04-24 21:00:00",
+        "actual_price": 77536.48,
+        "lower_bound": 77055.44228028915,
+        "upper_bound": 78394.46783374138,
+        "volatility": 0.0028069366576116326
+    },
+    {
+        "timestamp": "2026-04-24 22:00:00",
+        "actual_price": 77328.91,
+        "lower_bound": 76733.65217991511,
+        "upper_bound": 78320.54289703612,
+        "volatility": 0.002498137811805863
+    },
+    {
+        "timestamp": "2026-04-24 23:00:00",
+        "actual_price": 77437.13,
+        "lower_bound": 76522.40387508273,
+        "upper_bound": 78127.86669857429,
+        "volatility": 0.002505492267103032
+    },
+    {
+        "timestamp": "2026-04-25 00:00:00",
+        "actual_price": 77456.88,
+        "lower_bound": 76788.7399728472,
+        "upper_bound": 78072.5384662994,
+        "volatility": 0.002826852012804525
+    },
+    {
+        "timestamp": "2026-04-25 01:00:00",
+        "actual_price": 77541.63,
+        "lower_bound": 76645.92085366277,
+        "upper_bound": 78234.92870317605,
+        "volatility": 0.0025066832656410864
+    },
+    {
+        "timestamp": "2026-04-25 02:00:00",
+        "actual_price": 77607.8,
+        "lower_bound": 76733.66520383231,
+        "upper_bound": 78293.47740884477,
+        "volatility": 0.0025058409513504737
+    },
+    {
+        "timestamp": "2026-04-25 03:00:00",
+        "actual_price": 77679.07,
+        "lower_bound": 76781.4231374392,
+        "upper_bound": 78378.25037258041,
+        "volatility": 0.0025063306157052925
+    },
+    {
+        "timestamp": "2026-04-25 04:00:00",
+        "actual_price": 77619.05,
+        "lower_bound": 77051.45145561456,
+        "upper_bound": 78329.55660581132,
+        "volatility": 0.00282503941060561
+    },
+    {
+        "timestamp": "2026-04-25 05:00:00",
+        "actual_price": 77510.28,
+        "lower_bound": 76967.19821693246,
+        "upper_bound": 78257.0646120201,
+        "volatility": 0.002825118529728418
+    },
+    {
+        "timestamp": "2026-04-25 06:00:00",
+        "actual_price": 77503.63,
+        "lower_bound": 76759.931347838,
+        "upper_bound": 78308.19840187253,
+        "volatility": 0.0025033432859473456
+    },
+    {
+        "timestamp": "2026-04-25 07:00:00",
+        "actual_price": 77501.19,
+        "lower_bound": 76741.78724312273,
+        "upper_bound": 78252.22892495318,
+        "volatility": 0.0025030701605912604
+    },
+    {
+        "timestamp": "2026-04-25 08:00:00",
+        "actual_price": 77643.37,
+        "lower_bound": 76881.47411912149,
+        "upper_bound": 78150.17627432078,
+        "volatility": 0.0028171672574234512
+    },
+    {
+        "timestamp": "2026-04-25 09:00:00",
+        "actual_price": 77714.55,
+        "lower_bound": 76792.79226914942,
+        "upper_bound": 78396.23700971114,
+        "volatility": 0.0025029752642812407
+    },
+    {
+        "timestamp": "2026-04-25 10:00:00",
+        "actual_price": 77787.77,
+        "lower_bound": 76942.45762840961,
+        "upper_bound": 78477.74078453198,
+        "volatility": 0.0025038300943961865
+    },
+    {
+        "timestamp": "2026-04-25 11:00:00",
+        "actual_price": 77682.3,
+        "lower_bound": 77155.00472102316,
+        "upper_bound": 78462.15810912245,
+        "volatility": 0.0028130903821626
+    },
+    {
+        "timestamp": "2026-04-25 12:00:00",
+        "actual_price": 77557.14,
+        "lower_bound": 77049.49061973827,
+        "upper_bound": 78335.31140669314,
+        "volatility": 0.0028159502604453565
+    },
+    {
+        "timestamp": "2026-04-25 13:00:00",
+        "actual_price": 77691.69,
+        "lower_bound": 76758.80928410642,
+        "upper_bound": 78337.40967915687,
+        "volatility": 0.0025045696215344635
+    },
+    {
+        "timestamp": "2026-04-25 14:00:00",
+        "actual_price": 77656.75,
+        "lower_bound": 76916.44534119741,
+        "upper_bound": 78456.61173695506,
+        "volatility": 0.0025071375316658897
+    },
+    {
+        "timestamp": "2026-04-25 15:00:00",
+        "actual_price": 77330.26,
+        "lower_bound": 77033.54661158094,
+        "upper_bound": 78321.71931402791,
+        "volatility": 0.0028242778377798464
+    },
+    {
+        "timestamp": "2026-04-25 16:00:00",
+        "actual_price": 77397.27,
+        "lower_bound": 76701.19157593178,
+        "upper_bound": 77982.61791885034,
+        "volatility": 0.002839833095805501
+    },
+    {
+        "timestamp": "2026-04-25 17:00:00",
+        "actual_price": 77245.77,
+        "lower_bound": 76587.67224249234,
+        "upper_bound": 78189.09459194374,
+        "volatility": 0.002517548988820965
+    },
+    {
+        "timestamp": "2026-04-25 18:00:00",
+        "actual_price": 77313.0,
+        "lower_bound": 76439.39625951576,
+        "upper_bound": 78040.88962285637,
+        "volatility": 0.002522067524330149
+    },
+    {
+        "timestamp": "2026-04-25 19:00:00",
+        "actual_price": 77330.01,
+        "lower_bound": 76554.09570786306,
+        "upper_bound": 78092.75271547516,
+        "volatility": 0.002519541825798207
+    },
+    {
+        "timestamp": "2026-04-25 20:00:00",
+        "actual_price": 77479.13,
+        "lower_bound": 76508.0185547638,
+        "upper_bound": 78181.12667076642,
+        "volatility": 0.002517412711349331
+    },
+    {
+        "timestamp": "2026-04-25 21:00:00",
+        "actual_price": 77525.84,
+        "lower_bound": 76859.99428272634,
+        "upper_bound": 78131.27887620384,
+        "volatility": 0.0028386535190952217
+    },
+    {
+        "timestamp": "2026-04-25 22:00:00",
+        "actual_price": 77557.01,
+        "lower_bound": 76882.84060879893,
+        "upper_bound": 78168.36201037063,
+        "volatility": 0.002836583968489885
+    },
+    {
+        "timestamp": "2026-04-25 23:00:00",
+        "actual_price": 77625.0,
+        "lower_bound": 76739.7161635812,
+        "upper_bound": 78333.98518545619,
+        "volatility": 0.0025138178299303725
+    },
+    {
+        "timestamp": "2026-04-26 00:00:00",
+        "actual_price": 77502.4,
+        "lower_bound": 76977.69037603449,
+        "upper_bound": 78298.32645846892,
+        "volatility": 0.002837251314885026
+    },
+    {
+        "timestamp": "2026-04-26 01:00:00",
+        "actual_price": 77461.16,
+        "lower_bound": 76878.18883416118,
+        "upper_bound": 78122.8844625677,
+        "volatility": 0.002832635865684731
+    },
+    {
+        "timestamp": "2026-04-26 02:00:00",
+        "actual_price": 77512.67,
+        "lower_bound": 76668.51786371194,
+        "upper_bound": 78242.06824802152,
+        "volatility": 0.002506071318749291
+    },
+    {
+        "timestamp": "2026-04-26 03:00:00",
+        "actual_price": 77400.21,
+        "lower_bound": 76755.19086109014,
+        "upper_bound": 78315.81634885182,
+        "volatility": 0.0025062839862928653
+    },
+    {
+        "timestamp": "2026-04-26 04:00:00",
+        "actual_price": 77774.29,
+        "lower_bound": 76790.83902357834,
+        "upper_bound": 78062.69745225654,
+        "volatility": 0.002827038743396711
+    },
+    {
+        "timestamp": "2026-04-26 05:00:00",
+        "actual_price": 77983.31,
+        "lower_bound": 77015.77455542693,
+        "upper_bound": 78562.39091581885,
+        "volatility": 0.002515408150657714
+    },
+    {
+        "timestamp": "2026-04-26 06:00:00",
+        "actual_price": 77999.04,
+        "lower_bound": 77344.98171170379,
+        "upper_bound": 78633.12027936526,
+        "volatility": 0.002851547670341273
+    },
+    {
+        "timestamp": "2026-04-26 07:00:00",
+        "actual_price": 78102.53,
+        "lower_bound": 77219.64323211335,
+        "upper_bound": 78766.26509549617,
+        "volatility": 0.002519869730732164
+    },
+    {
+        "timestamp": "2026-04-26 08:00:00",
+        "actual_price": 78032.59,
+        "lower_bound": 77265.7243932456,
+        "upper_bound": 78878.35876824509,
+        "volatility": 0.00251195901315813
+    },
+    {
+        "timestamp": "2026-04-26 09:00:00",
+        "actual_price": 77999.99,
+        "lower_bound": 77243.6653066171,
+        "upper_bound": 78831.64084659393,
+        "volatility": 0.002511227871460856
+    },
+    {
+        "timestamp": "2026-04-26 10:00:00",
+        "actual_price": 78002.43,
+        "lower_bound": 77366.41405986849,
+        "upper_bound": 78634.19041830988,
+        "volatility": 0.0028390595371887203
+    },
+    {
+        "timestamp": "2026-04-26 11:00:00",
+        "actual_price": 78101.44,
+        "lower_bound": 77219.55296577812,
+        "upper_bound": 78836.88356173054,
+        "volatility": 0.0024998599298308635
+    },
+    {
+        "timestamp": "2026-04-26 12:00:00",
+        "actual_price": 77833.08,
+        "lower_bound": 77477.32124737998,
+        "upper_bound": 78747.38149039641,
+        "volatility": 0.002817962183062947
+    },
+    {
+        "timestamp": "2026-04-26 13:00:00",
+        "actual_price": 77977.79,
+        "lower_bound": 77218.52746877047,
+        "upper_bound": 78505.87729765024,
+        "volatility": 0.0028227835046404685
+    },
+    {
+        "timestamp": "2026-04-26 14:00:00",
+        "actual_price": 78095.66,
+        "lower_bound": 77209.95051502505,
+        "upper_bound": 78757.8733277737,
+        "volatility": 0.0025064643860778224
+    },
+    {
+        "timestamp": "2026-04-26 15:00:00",
+        "actual_price": 78049.0,
+        "lower_bound": 77300.44424270478,
+        "upper_bound": 78881.24913648066,
+        "volatility": 0.0025069300348919106
+    },
+    {
+        "timestamp": "2026-04-26 16:00:00",
+        "actual_price": 77919.43,
+        "lower_bound": 77269.27541538216,
+        "upper_bound": 78802.72138410948,
+        "volatility": 0.002498202841022165
+    },
+    {
+        "timestamp": "2026-04-26 17:00:00",
+        "actual_price": 78018.57,
+        "lower_bound": 77286.28900172513,
+        "upper_bound": 78599.41021684225,
+        "volatility": 0.002813975895785378
+    },
+    {
+        "timestamp": "2026-04-26 18:00:00",
+        "actual_price": 78283.96,
+        "lower_bound": 77219.89332653103,
+        "upper_bound": 78832.910355537,
+        "volatility": 0.0024848712261530603
+    },
+    {
+        "timestamp": "2026-04-26 19:00:00",
+        "actual_price": 78221.16,
+        "lower_bound": 77630.54938779786,
+        "upper_bound": 78912.51515336473,
+        "volatility": 0.002800384550794368
+    },
+    {
+        "timestamp": "2026-04-26 20:00:00",
+        "actual_price": 78194.22,
+        "lower_bound": 77450.62847798724,
+        "upper_bound": 79024.70057233755,
+        "volatility": 0.002478768574092998
+    },
+    {
+        "timestamp": "2026-04-26 21:00:00",
+        "actual_price": 78417.41,
+        "lower_bound": 77439.542333899,
+        "upper_bound": 78931.37145980453,
+        "volatility": 0.002467861465015619
+    },
+    {
+        "timestamp": "2026-04-26 22:00:00",
+        "actual_price": 78313.52,
+        "lower_bound": 77796.76973908154,
+        "upper_bound": 79061.00165136509,
+        "volatility": 0.0027765223713247327
+    },
+    {
+        "timestamp": "2026-04-26 23:00:00",
+        "actual_price": 78657.55,
+        "lower_bound": 77670.05396365987,
+        "upper_bound": 78925.1105062548,
+        "volatility": 0.0027769440364165472
+    },
+    {
+        "timestamp": "2026-04-27 00:00:00",
+        "actual_price": 79308.6,
+        "lower_bound": 77865.21238025185,
+        "upper_bound": 79440.1845007569,
+        "volatility": 0.0024721408487779805
+    },
+    {
+        "timestamp": "2026-04-27 01:00:00",
+        "actual_price": 79283.66,
+        "lower_bound": 78506.9912232866,
+        "upper_bound": 80069.17025583351,
+        "volatility": 0.0024853826769706266
+    },
+    {
+        "timestamp": "2026-04-27 02:00:00",
+        "actual_price": 79130.01,
+        "lower_bound": 78490.98281322951,
+        "upper_bound": 80069.48760969628,
+        "volatility": 0.0024764693884689382
+    },
+    {
+        "timestamp": "2026-04-27 03:00:00",
+        "actual_price": 79105.49,
+        "lower_bound": 78375.12989550576,
+        "upper_bound": 79922.08730233996,
+        "volatility": 0.0024778146186434473
+    },
+    {
+        "timestamp": "2026-04-27 04:00:00",
+        "actual_price": 78924.22,
+        "lower_bound": 78323.88547457896,
+        "upper_bound": 79928.13174345854,
+        "volatility": 0.0024761550302388486
+    },
+    {
+        "timestamp": "2026-04-27 05:00:00",
+        "actual_price": 77785.54,
+        "lower_bound": 78152.2209201675,
+        "upper_bound": 79691.81734902023,
+        "volatility": 0.002468937296891044
+    },
+    {
+        "timestamp": "2026-04-27 06:00:00",
+        "actual_price": 77700.12,
+        "lower_bound": 76989.6876113424,
+        "upper_bound": 78548.77795019637,
+        "volatility": 0.0024857518158077456
+    },
+    {
+        "timestamp": "2026-04-27 07:00:00",
+        "actual_price": 77606.6,
+        "lower_bound": 77051.78686626202,
+        "upper_bound": 78343.20390904446,
+        "volatility": 0.0027816752912528434
+    },
+    {
+        "timestamp": "2026-04-27 08:00:00",
+        "actual_price": 77804.34,
+        "lower_bound": 76843.80954856524,
+        "upper_bound": 78337.89895705227,
+        "volatility": 0.002474276651225255
+    },
+    {
+        "timestamp": "2026-04-27 09:00:00",
+        "actual_price": 77900.01,
+        "lower_bound": 77039.48461646319,
+        "upper_bound": 78598.82235555322,
+        "volatility": 0.00247862346101998
+    },
+    {
+        "timestamp": "2026-04-27 10:00:00",
+        "actual_price": 77850.01,
+        "lower_bound": 77265.20955316632,
+        "upper_bound": 78548.91704442033,
+        "volatility": 0.0027683311123340064
+    },
+    {
+        "timestamp": "2026-04-27 11:00:00",
+        "actual_price": 77844.26,
+        "lower_bound": 77229.76810677529,
+        "upper_bound": 78481.67877731075,
+        "volatility": 0.0027515909693756656
+    },
+    {
+        "timestamp": "2026-04-27 12:00:00",
+        "actual_price": 77667.36,
+        "lower_bound": 77207.73025707203,
+        "upper_bound": 78495.46117793376,
+        "volatility": 0.002743403442826829
+    },
+    {
+        "timestamp": "2026-04-27 13:00:00",
+        "actual_price": 77746.74,
+        "lower_bound": 76885.62634462035,
+        "upper_bound": 78457.1962340838,
+        "volatility": 0.002454327511164734
+    },
+    {
+        "timestamp": "2026-04-27 14:00:00",
+        "actual_price": 77815.25,
+        "lower_bound": 77113.50956270786,
+        "upper_bound": 78403.29662920636,
+        "volatility": 0.002723135889159401
+    },
+    {
+        "timestamp": "2026-04-27 15:00:00",
+        "actual_price": 76793.09,
+        "lower_bound": 77202.2191067578,
+        "upper_bound": 78482.83279628592,
+        "volatility": 0.0027176591416569994
+    },
+    {
+        "timestamp": "2026-04-27 16:00:00",
+        "actual_price": 76618.59,
+        "lower_bound": 76038.14393199317,
+        "upper_bound": 77505.88781786482,
+        "volatility": 0.002455542805996443
+    },
+    {
+        "timestamp": "2026-04-27 17:00:00",
+        "actual_price": 76743.24,
+        "lower_bound": 75984.97708795549,
+        "upper_bound": 77285.17704886796,
+        "volatility": 0.002713483334251002
+    },
+    {
+        "timestamp": "2026-04-27 18:00:00",
+        "actual_price": 76834.06,
+        "lower_bound": 76122.79431226342,
+        "upper_bound": 77385.87739794159,
+        "volatility": 0.002702994837914389
+    },
+    {
+        "timestamp": "2026-04-27 19:00:00",
+        "actual_price": 76878.07,
+        "lower_bound": 76086.42768467384,
+        "upper_bound": 77607.99660589824,
+        "volatility": 0.0024369819815120925
+    },
+    {
+        "timestamp": "2026-04-27 20:00:00",
+        "actual_price": 76960.43,
+        "lower_bound": 76256.95231960001,
+        "upper_bound": 77527.6830776904,
+        "volatility": 0.002703036076116291
+    },
+    {
+        "timestamp": "2026-04-27 21:00:00",
+        "actual_price": 76786.81,
+        "lower_bound": 76351.5163519486,
+        "upper_bound": 77598.26730366609,
+        "volatility": 0.002686514970298034
+    },
+    {
+        "timestamp": "2026-04-27 22:00:00",
+        "actual_price": 77066.42,
+        "lower_bound": 76181.63035438003,
+        "upper_bound": 77440.97811673733,
+        "volatility": 0.002678446919785491
+    },
+    {
+        "timestamp": "2026-04-27 23:00:00",
+        "actual_price": 77371.32,
+        "lower_bound": 76442.65071162024,
+        "upper_bound": 77706.63223521112,
+        "volatility": 0.0026888189937882842
+    },
+    {
+        "timestamp": "2026-04-28 00:00:00",
+        "actual_price": 77379.62,
+        "lower_bound": 76619.73139608173,
+        "upper_bound": 78145.60792916625,
+        "volatility": 0.0024330479176798633
+    },
+    {
+        "timestamp": "2026-04-28 01:00:00",
+        "actual_price": 77084.68,
+        "lower_bound": 76744.46696357377,
+        "upper_bound": 78069.16648106094,
+        "volatility": 0.002692426884312829
+    },
+    {
+        "timestamp": "2026-04-28 02:00:00",
+        "actual_price": 76890.93,
+        "lower_bound": 76463.97084532949,
+        "upper_bound": 77738.91414715354,
+        "volatility": 0.0027033878825258833
+    },
+    {
+        "timestamp": "2026-04-28 03:00:00",
+        "actual_price": 76815.18,
+        "lower_bound": 76258.84705229501,
+        "upper_bound": 77493.11402263536,
+        "volatility": 0.002711081718550581
+    },
+    {
+        "timestamp": "2026-04-28 04:00:00",
+        "actual_price": 76888.08,
+        "lower_bound": 76021.97240000425,
+        "upper_bound": 77554.47510369658,
+        "volatility": 0.0024309760224828845
+    },
+    {
+        "timestamp": "2026-04-28 05:00:00",
+        "actual_price": 76885.98,
+        "lower_bound": 76253.61938916621,
+        "upper_bound": 77554.31460405928,
+        "volatility": 0.00268496515933253
+    },
+    {
+        "timestamp": "2026-04-28 06:00:00",
+        "actual_price": 76720.0,
+        "lower_bound": 76174.98910853498,
+        "upper_bound": 77615.97124755962,
+        "volatility": 0.0024087864297760815
+    },
+    {
+        "timestamp": "2026-04-28 07:00:00",
+        "actual_price": 76879.28,
+        "lower_bound": 76098.34846840223,
+        "upper_bound": 77348.96718880415,
+        "volatility": 0.002679944734237191
+    },
+    {
+        "timestamp": "2026-04-28 08:00:00",
+        "actual_price": 76858.59,
+        "lower_bound": 76160.37356661705,
+        "upper_bound": 77592.99101424775,
+        "volatility": 0.0024154930939447646
+    },
+    {
+        "timestamp": "2026-04-28 09:00:00",
+        "actual_price": 76598.0,
+        "lower_bound": 76244.67620003854,
+        "upper_bound": 77491.27249414266,
+        "volatility": 0.002678177317497995
+    },
+    {
+        "timestamp": "2026-04-28 10:00:00",
+        "actual_price": 76618.35,
+        "lower_bound": 75965.95917824813,
+        "upper_bound": 77222.2276176314,
+        "volatility": 0.0026728003731777378
+    },
+    {
+        "timestamp": "2026-04-28 11:00:00",
+        "actual_price": 76229.0,
+        "lower_bound": 75908.10874638552,
+        "upper_bound": 77347.61121031585,
+        "volatility": 0.0023959192924601865
+    },
+    {
+        "timestamp": "2026-04-28 12:00:00",
+        "actual_price": 76372.05,
+        "lower_bound": 75621.03623836538,
+        "upper_bound": 76869.45443248448,
+        "volatility": 0.0026714961061386727
+    },
+    {
+        "timestamp": "2026-04-28 13:00:00",
+        "actual_price": 76189.84,
+        "lower_bound": 75666.20337895745,
+        "upper_bound": 77113.62017901342,
+        "volatility": 0.0023979783139784975
+    },
+    {
+        "timestamp": "2026-04-28 14:00:00",
+        "actual_price": 75949.99,
+        "lower_bound": 75581.82611369483,
+        "upper_bound": 76813.8604393093,
+        "volatility": 0.002651541051204045
+    },
+    {
+        "timestamp": "2026-04-28 15:00:00",
+        "actual_price": 76066.38,
+        "lower_bound": 75331.16896893007,
+        "upper_bound": 76565.56859144136,
+        "volatility": 0.002645208854969357
+    },
+    {
+        "timestamp": "2026-04-28 16:00:00",
+        "actual_price": 76125.04,
+        "lower_bound": 75478.84841006578,
+        "upper_bound": 76653.69161857292,
+        "volatility": 0.002632502514445176
+    },
+    {
+        "timestamp": "2026-04-28 17:00:00",
+        "actual_price": 76187.3,
+        "lower_bound": 75522.56165912391,
+        "upper_bound": 76747.3563940092,
+        "volatility": 0.002616931420500893
+    },
+    {
+        "timestamp": "2026-04-28 18:00:00",
+        "actual_price": 76242.18,
+        "lower_bound": 75601.8116615111,
+        "upper_bound": 76784.87146969532,
+        "volatility": 0.0026308443121721365
+    },
+    {
+        "timestamp": "2026-04-28 19:00:00",
+        "actual_price": 76330.97,
+        "lower_bound": 75482.42501438165,
+        "upper_bound": 76971.2987446412,
+        "volatility": 0.0023041874582822846
+    },
+    {
+        "timestamp": "2026-04-28 20:00:00",
+        "actual_price": 76463.95,
+        "lower_bound": 75736.15251031776,
+        "upper_bound": 76941.16630507748,
+        "volatility": 0.002604696742159959
+    },
+    {
+        "timestamp": "2026-04-28 21:00:00",
+        "actual_price": 76357.15,
+        "lower_bound": 75859.95367876544,
+        "upper_bound": 77064.00753138123,
+        "volatility": 0.0025975513766537143
+    },
+    {
+        "timestamp": "2026-04-28 22:00:00",
+        "actual_price": 76242.17,
+        "lower_bound": 75761.61032674756,
+        "upper_bound": 76944.20626060355,
+        "volatility": 0.0025967784666156802
+    },
+    {
+        "timestamp": "2026-04-28 23:00:00",
+        "actual_price": 76342.77,
+        "lower_bound": 75639.7613144511,
+        "upper_bound": 76816.31848373388,
+        "volatility": 0.00259853426281389
+    },
+    {
+        "timestamp": "2026-04-29 00:00:00",
+        "actual_price": 76512.0,
+        "lower_bound": 75757.8850090216,
+        "upper_bound": 76937.17249122295,
+        "volatility": 0.00258651158481854
+    },
+    {
+        "timestamp": "2026-04-29 01:00:00",
+        "actual_price": 76571.0,
+        "lower_bound": 75891.14286420705,
+        "upper_bound": 77110.18662689922,
+        "volatility": 0.002586065077143476
+    },
+    {
+        "timestamp": "2026-04-29 02:00:00",
+        "actual_price": 76531.29,
+        "lower_bound": 75975.5169122829,
+        "upper_bound": 77174.27238920622,
+        "volatility": 0.002587233474226243
+    },
+    {
+        "timestamp": "2026-04-29 03:00:00",
+        "actual_price": 76994.78,
+        "lower_bound": 75934.26138021801,
+        "upper_bound": 77113.83340749545,
+        "volatility": 0.0025839843648565106
+    },
+    {
+        "timestamp": "2026-04-29 04:00:00",
+        "actual_price": 77269.76,
+        "lower_bound": 76393.78929587618,
+        "upper_bound": 77610.47562009812,
+        "volatility": 0.0025942307641542645
+    },
+    {
+        "timestamp": "2026-04-29 05:00:00",
+        "actual_price": 77288.38,
+        "lower_bound": 76674.15371722566,
+        "upper_bound": 77889.40751602133,
+        "volatility": 0.0026034222978961684
+    },
+    {
+        "timestamp": "2026-04-29 06:00:00",
+        "actual_price": 77031.06,
+        "lower_bound": 76570.3734518206,
+        "upper_bound": 78056.6819116435,
+        "volatility": 0.0023236284051623276
+    },
+    {
+        "timestamp": "2026-04-29 07:00:00",
+        "actual_price": 77053.64,
+        "lower_bound": 76309.78218884737,
+        "upper_bound": 77754.35171378574,
+        "volatility": 0.0023275454997973184
+    },
+    {
+        "timestamp": "2026-04-29 08:00:00",
+        "actual_price": 77046.32,
+        "lower_bound": 76319.1038905583,
+        "upper_bound": 77800.0197100833,
+        "volatility": 0.002316380575092528
+    },
+    {
+        "timestamp": "2026-04-29 09:00:00",
+        "actual_price": 77642.0,
+        "lower_bound": 76311.68152870993,
+        "upper_bound": 77774.1426380368,
+        "volatility": 0.0023021367664876344
+    },
+    {
+        "timestamp": "2026-04-29 10:00:00",
+        "actual_price": 77619.61,
+        "lower_bound": 76909.21269855244,
+        "upper_bound": 78378.56286669426,
+        "volatility": 0.002299785582122578
+    },
+    {
+        "timestamp": "2026-04-29 11:00:00",
+        "actual_price": 77590.03,
+        "lower_bound": 76893.4729880569,
+        "upper_bound": 78370.19819515239,
+        "volatility": 0.002288597023556384
+    },
+    {
+        "timestamp": "2026-04-29 12:00:00",
+        "actual_price": 77143.68,
+        "lower_bound": 76994.68665534112,
+        "upper_bound": 78194.2131511302,
+        "volatility": 0.002528324825909185
+    },
+    {
+        "timestamp": "2026-04-29 13:00:00",
+        "actual_price": 76783.43,
+        "lower_bound": 76409.41097690813,
+        "upper_bound": 77853.88617194686,
+        "volatility": 0.0022846670300977513
+    },
+    {
+        "timestamp": "2026-04-29 14:00:00",
+        "actual_price": 76570.0,
+        "lower_bound": 76076.18666101832,
+        "upper_bound": 77494.11113731147,
+        "volatility": 0.002281244617246767
+    },
+    {
+        "timestamp": "2026-04-29 15:00:00",
+        "actual_price": 75924.25,
+        "lower_bound": 75847.90854176194,
+        "upper_bound": 77262.90217837699,
+        "volatility": 0.0022821653329940057
+    },
+    {
+        "timestamp": "2026-04-29 16:00:00",
+        "actual_price": 75803.54,
+        "lower_bound": 75343.99539857586,
+        "upper_bound": 76539.3252660242,
+        "volatility": 0.002549845754479315
+    },
+    {
+        "timestamp": "2026-04-29 17:00:00",
+        "actual_price": 76184.01,
+        "lower_bound": 75194.79987935447,
+        "upper_bound": 76364.05678014885,
+        "volatility": 0.0025444341528457134
+    },
+    {
+        "timestamp": "2026-04-29 18:00:00",
+        "actual_price": 75513.91,
+        "lower_bound": 75473.38137084732,
+        "upper_bound": 76833.18789032969,
+        "volatility": 0.002291469569823049
+    },
+    {
+        "timestamp": "2026-04-29 19:00:00",
+        "actual_price": 75563.86,
+        "lower_bound": 74699.23930205587,
+        "upper_bound": 76233.29026662582,
+        "volatility": 0.0022670602428494276
+    },
+    {
+        "timestamp": "2026-04-29 20:00:00",
+        "actual_price": 75676.79,
+        "lower_bound": 74835.25397126476,
+        "upper_bound": 76258.21665508949,
+        "volatility": 0.002297201867812684
+    },
+    {
+        "timestamp": "2026-04-29 21:00:00",
+        "actual_price": 75933.93,
+        "lower_bound": 74949.52484172501,
+        "upper_bound": 76376.94640200131,
+        "volatility": 0.0022968164996563824
+    },
+    {
+        "timestamp": "2026-04-29 22:00:00",
+        "actual_price": 75927.38,
+        "lower_bound": 75344.2454822865,
+        "upper_bound": 76518.97816754274,
+        "volatility": 0.002554274308993274
+    },
+    {
+        "timestamp": "2026-04-29 23:00:00",
+        "actual_price": 75780.0,
+        "lower_bound": 75333.263346971,
+        "upper_bound": 76504.5056646809,
+        "volatility": 0.0025526024199195346
+    },
+    {
+        "timestamp": "2026-04-30 00:00:00",
+        "actual_price": 76248.74,
+        "lower_bound": 75083.56448657546,
+        "upper_bound": 76501.19204908011,
+        "volatility": 0.0022961588800712134
+    },
+    {
+        "timestamp": "2026-04-30 01:00:00",
+        "actual_price": 76232.8,
+        "lower_bound": 75663.33611843275,
+        "upper_bound": 76856.99193604074,
+        "volatility": 0.0025550243957114874
+    },
+    {
+        "timestamp": "2026-04-30 02:00:00",
+        "actual_price": 75704.74,
+        "lower_bound": 75643.44183669797,
+        "upper_bound": 76845.47992184926,
+        "volatility": 0.002554035439432986
+    },
+    {
+        "timestamp": "2026-04-30 03:00:00",
+        "actual_price": 75928.1,
+        "lower_bound": 75082.9142616743,
+        "upper_bound": 76312.1274999868,
+        "volatility": 0.0025714967439379654
+    },
+    {
+        "timestamp": "2026-04-30 04:00:00",
+        "actual_price": 75497.0,
+        "lower_bound": 75333.29386090036,
+        "upper_bound": 76526.26742344082,
+        "volatility": 0.002568022663260699
+    },
+    {
+        "timestamp": "2026-04-30 05:00:00",
+        "actual_price": 75600.09,
+        "lower_bound": 74735.6353091942,
+        "upper_bound": 76210.60032829155,
+        "volatility": 0.002277036299910905
+    },
+    {
+        "timestamp": "2026-04-30 06:00:00",
+        "actual_price": 75753.53,
+        "lower_bound": 75011.06986783359,
+        "upper_bound": 76174.40144812946,
+        "volatility": 0.002559912807910452
+    },
+    {
+        "timestamp": "2026-04-30 07:00:00",
+        "actual_price": 76161.67,
+        "lower_bound": 75146.51072361386,
+        "upper_bound": 76356.3315943122,
+        "volatility": 0.0025617770802868595
+    },
+    {
+        "timestamp": "2026-04-30 08:00:00",
+        "actual_price": 76058.17,
+        "lower_bound": 75562.4067370354,
+        "upper_bound": 76756.57523112764,
+        "volatility": 0.00257483873568372
+    },
+    {
+        "timestamp": "2026-04-30 09:00:00",
+        "actual_price": 76097.19,
+        "lower_bound": 75471.19790618157,
+        "upper_bound": 76628.86922594886,
+        "volatility": 0.0025594381072553177
+    },
+    {
+        "timestamp": "2026-04-30 10:00:00",
+        "actual_price": 76028.66,
+        "lower_bound": 75526.4091933514,
+        "upper_bound": 76710.1148433565,
+        "volatility": 0.0025423185255974887
+    },
+    {
+        "timestamp": "2026-04-30 11:00:00",
+        "actual_price": 76059.43,
+        "lower_bound": 75284.93799971424,
+        "upper_bound": 76776.4283362569,
+        "volatility": 0.0022428316612477387
+    },
+    {
+        "timestamp": "2026-04-30 12:00:00",
+        "actual_price": 76308.48,
+        "lower_bound": 75482.3764903805,
+        "upper_bound": 76675.50304747316,
+        "volatility": 0.0025396300893347195
+    },
+    {
+        "timestamp": "2026-04-30 13:00:00",
+        "actual_price": 76420.44,
+        "lower_bound": 75540.72217272311,
+        "upper_bound": 77011.16929633921,
+        "volatility": 0.0022402345524854617
+    },
+    {
+        "timestamp": "2026-04-30 14:00:00",
+        "actual_price": 76301.24,
+        "lower_bound": 75836.45524860077,
+        "upper_bound": 77011.39816820889,
+        "volatility": 0.0025235741161258205
+    },
+    {
+        "timestamp": "2026-04-30 15:00:00",
+        "actual_price": 76473.6,
+        "lower_bound": 75712.55830020207,
+        "upper_bound": 76900.62085243089,
+        "volatility": 0.0025162038079621675
+    },
+    {
+        "timestamp": "2026-04-30 16:00:00",
+        "actual_price": 76261.03,
+        "lower_bound": 75753.13547436234,
+        "upper_bound": 77179.80266859455,
+        "volatility": 0.0022210085991893145
+    },
+    {
+        "timestamp": "2026-04-30 17:00:00",
+        "actual_price": 76250.01,
+        "lower_bound": 75674.19014312423,
+        "upper_bound": 76884.21735986606,
+        "volatility": 0.0025112319161612905
+    },
+    {
+        "timestamp": "2026-04-30 18:00:00",
+        "actual_price": 76350.0,
+        "lower_bound": 75552.39341262968,
+        "upper_bound": 76953.31641835568,
+        "volatility": 0.0022122826672944396
+    },
+    {
+        "timestamp": "2026-04-30 19:00:00",
+        "actual_price": 76412.8,
+        "lower_bound": 75632.45390308066,
+        "upper_bound": 77047.8793592055,
+        "volatility": 0.0022081340608634797
+    },
+    {
+        "timestamp": "2026-04-30 20:00:00",
+        "actual_price": 76492.46,
+        "lower_bound": 75678.17764721437,
+        "upper_bound": 77111.25614222807,
+        "volatility": 0.0022034237405259938
+    },
+    {
+        "timestamp": "2026-04-30 21:00:00",
+        "actual_price": 76241.78,
+        "lower_bound": 75723.82559423888,
+        "upper_bound": 77195.62006223369,
+        "volatility": 0.002198909513033344
+    },
+    {
+        "timestamp": "2026-04-30 22:00:00",
+        "actual_price": 76237.06,
+        "lower_bound": 75512.28809228417,
+        "upper_bound": 76932.74243907201,
+        "volatility": 0.002201140292605549
+    },
+    {
+        "timestamp": "2026-04-30 23:00:00",
+        "actual_price": 76346.57,
+        "lower_bound": 75541.18756193746,
+        "upper_bound": 76936.11057272104,
+        "volatility": 0.0021971905248815427
+    },
+    {
+        "timestamp": "2026-05-01 00:00:00",
+        "actual_price": 76458.05,
+        "lower_bound": 75592.10536205799,
+        "upper_bound": 77040.36869781677,
+        "volatility": 0.0021917135534981255
+    },
+    {
+        "timestamp": "2026-05-01 01:00:00",
+        "actual_price": 76686.13,
+        "lower_bound": 75738.62709665817,
+        "upper_bound": 77213.23262984632,
+        "volatility": 0.0021938360112723
+    },
+    {
+        "timestamp": "2026-05-01 02:00:00",
+        "actual_price": 76592.54,
+        "lower_bound": 76032.07539389249,
+        "upper_bound": 77365.31226917537,
+        "volatility": 0.0022277177240017727
+    },
+    {
+        "timestamp": "2026-05-01 03:00:00",
+        "actual_price": 77131.08,
+        "lower_bound": 75937.86052361957,
+        "upper_bound": 77285.27915341759,
+        "volatility": 0.0022189213774582027
+    },
+    {
+        "timestamp": "2026-05-01 04:00:00",
+        "actual_price": 77042.44,
+        "lower_bound": 76409.37280998305,
+        "upper_bound": 77832.83264180017,
+        "volatility": 0.002228368203299213
+    },
+    {
+        "timestamp": "2026-05-01 05:00:00",
+        "actual_price": 77165.98,
+        "lower_bound": 76445.86437385531,
+        "upper_bound": 77638.82324559793,
+        "volatility": 0.002452866653322996
+    },
+    {
+        "timestamp": "2026-05-01 06:00:00",
+        "actual_price": 76993.48,
+        "lower_bound": 76585.79698009546,
+        "upper_bound": 77782.43091461656,
+        "volatility": 0.0024523080014201663
+    },
+    {
+        "timestamp": "2026-05-01 07:00:00",
+        "actual_price": 77130.54,
+        "lower_bound": 76395.03415807172,
+        "upper_bound": 77601.9839943575,
+        "volatility": 0.0024478752245264334
+    },
+    {
+        "timestamp": "2026-05-01 08:00:00",
+        "actual_price": 77377.47,
+        "lower_bound": 76437.05008975022,
+        "upper_bound": 77780.27078954161,
+        "volatility": 0.002224248238823128
+    },
+    {
+        "timestamp": "2026-05-01 09:00:00",
+        "actual_price": 77268.55,
+        "lower_bound": 76647.42950265987,
+        "upper_bound": 78043.90528790317,
+        "volatility": 0.002230777124479164
+    },
+    {
+        "timestamp": "2026-05-01 10:00:00",
+        "actual_price": 77304.34,
+        "lower_bound": 76521.81021238069,
+        "upper_bound": 77976.5408059125,
+        "volatility": 0.0021822270366818816
+    },
+    {
+        "timestamp": "2026-05-01 11:00:00",
+        "actual_price": 77463.98,
+        "lower_bound": 76591.60622609092,
+        "upper_bound": 78004.74230136485,
+        "volatility": 0.0022075328307049743
+    },
+    {
+        "timestamp": "2026-05-01 12:00:00",
+        "actual_price": 77896.01,
+        "lower_bound": 76757.33771579934,
+        "upper_bound": 78191.1443521339,
+        "volatility": 0.002160685432201671
+    },
+    {
+        "timestamp": "2026-05-01 13:00:00",
+        "actual_price": 78737.25,
+        "lower_bound": 77237.77360684007,
+        "upper_bound": 78574.00210759613,
+        "volatility": 0.0022070869567493104
+    },
+    {
+        "timestamp": "2026-05-01 14:00:00",
+        "actual_price": 78358.75,
+        "lower_bound": 78007.13666483696,
+        "upper_bound": 79443.69440510479,
+        "volatility": 0.0022208676102205465
+    },
+    {
+        "timestamp": "2026-05-01 15:00:00",
+        "actual_price": 78445.89,
+        "lower_bound": 77686.67159708736,
+        "upper_bound": 79061.82091648794,
+        "volatility": 0.0022297649597217244
+    },
+    {
+        "timestamp": "2026-05-01 16:00:00",
+        "actual_price": 78214.36,
+        "lower_bound": 77756.62321674936,
+        "upper_bound": 79159.9888971931,
+        "volatility": 0.0022281887831793893
+    },
+    {
+        "timestamp": "2026-05-01 17:00:00",
+        "actual_price": 78552.94,
+        "lower_bound": 77545.59764469553,
+        "upper_bound": 78908.17163715347,
+        "volatility": 0.002229958454661162
+    },
+    {
+        "timestamp": "2026-05-01 18:00:00",
+        "actual_price": 78423.9,
+        "lower_bound": 77940.33141065532,
+        "upper_bound": 79182.74582303192,
+        "volatility": 0.0024549576253800947
+    },
+    {
+        "timestamp": "2026-05-01 19:00:00",
+        "actual_price": 78360.0,
+        "lower_bound": 77731.21003675422,
+        "upper_bound": 79143.89095680325,
+        "volatility": 0.0022310226531105076
+    },
+    {
+        "timestamp": "2026-05-01 20:00:00",
+        "actual_price": 77880.18,
+        "lower_bound": 77683.15104038396,
+        "upper_bound": 79019.84331412135,
+        "volatility": 0.0022275684839397764
+    },
+    {
+        "timestamp": "2026-05-01 21:00:00",
+        "actual_price": 78163.0,
+        "lower_bound": 77198.03099087763,
+        "upper_bound": 78576.69115627816,
+        "volatility": 0.0022381098433960347
+    }
+]
