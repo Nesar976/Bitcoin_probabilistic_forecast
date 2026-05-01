@@ -1,5 +1,8 @@
 # AlphaI x Polaris Bitcoin Next-Hour Prediction Challenge
 
+<img width="3024" height="1732" alt="image" src="https://github.com/user-attachments/assets/0867f3ee-4c36-4b23-9748-3fdaed01ff31" />
+
+
 This repository contains a full-stack solution for predicting a 95% confidence interval for the Bitcoin (BTCUSDT) price in the next hour using the Binance API.
 
 ## Core Model
